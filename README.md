@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Halo,+Saya+Effendy+Candra+Sasmoro;Anak+IT+|+Networking+|+Web+Development;Terus+Belajar+%7C+Terus+Berkarya+%7C+Terus+Bertumbuh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Halo,+Saya+Effendy+Candra+Sasmoro;IT+Support+|+Network Administrator+|+Web+Development+Data+Analis+|Internet+of+Things|;Terus+Belajar+%7C+Terus+Berkarya+%7C+Terus+Bertumbuh" alt="Typing SVG" />
 </p>
 
 ---
