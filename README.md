@@ -1,6 +1,6 @@
 <!-- Banner Hacker Style -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+System...;Access+Granted...;Welcome+to+Effendy+Candra+Sasmoro's+Profile;>_+Cybersecurity+%7C+Networking+%7C+Web+Development;Terminal+Ready+..." alt="Hacker Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Booting+Up+System...;Bypassing+Firewall...;Access+Granted...;Welcome+to+Effendy+Candra+Sasmoro's+Profile;>_+Cybersecurity+%7C+Networking+%7C+Web+Development;Terminal+Online+..." alt="Hacker Banner" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200" alt="Hacker Gif"/>
+  <img src="https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif" width="300" alt="Matrix Hacker Gif"/>
 </p>
 
 <p align="center">
