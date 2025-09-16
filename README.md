@@ -14,9 +14,17 @@
 ---
 
 ### 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,tailwind,python,mysql,linux,git,github,vscode" />
-</p>
+<!-- 💻 Pemrograman -->
+<img src="https://skillicons.dev/icons?i=python,js,php,cpp" />
+
+<!-- 🌐 Web Development -->
+<img src="https://skillicons.dev/icons?i=html,css,nodejs" />
+
+<!-- 🗄️ Database -->
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<!-- ⚙️ Tools & Sistem Operasi -->
+<img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,github" />
 
 ---
 
