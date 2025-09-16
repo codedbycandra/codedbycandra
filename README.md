@@ -1,15 +1,15 @@
 <!-- Profil README -->
 
-<h1 align="center">Hello World!, I'm Efendy Candra Sasmoro</h1>
-<h3 align="center">💻 IT Enthusiast | Web Developer | Network Administrator 🚀</h3>
+<h1 align="center">Hello World!, Saya Efendy Candra Sasmoro</h1>
+<h3 align="center">💻 Web Developer | IT Support | Data Analyst | Network Administrator | Internet of Things (IoT) 🚀</h3>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Informatics Engineering graduate  
-- 🔧 Skilled in **Web Development, Networking, and Troubleshooting**  
-- 🌱 Always learning **New Technologies**  
-- 🚀 Passionate about building **useful & scalable projects**
+### 👨‍💻 Tentang Saya
+- 🎓 Lulusan **S1 Teknik Informatika – Universitas Pamulang-Tangerang Selatan**  
+- 🔧 Memiliki keahlian di bidang **Pengembangan Web, Internet of Things, Administrasi Jaringan, dan Troubleshooting**  
+- 🌱 Selalu belajar teknologi baru untuk meningkatkan kemampuan  
+- 🚀 Bersemangat membangun proyek yang **berguna dan dapat dikembangkan**  
 
 ---
 
