@@ -13,28 +13,20 @@
 
 ---
 
-### 🚀 Tech Stack
+### 💡 Kemampuan
 ### 💡 Kemampuan IT
-<p align="center">
-  <!-- Pemrograman -->
-  <img src="https://skillicons.dev/icons?i=python,js,php,cpp" /><br/>
-  
-  <!-- Web Development -->
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs" /><br/>
-  
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=mysql" /><br/>
-  
-  <!-- Tools & OS -->
-  <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,github" />
-</p>
 
-🔹 Microsoft Office (Word, Excel, PowerPoint)  
-🔹 Administrasi Jaringan (Cisco, Mikrotik, TCP/IP)  
-🔹 Internet of Things (IoT)  
-🔹 Troubleshooting Hardware & Software  
-🔹 Instalasi Sistem Operasi & Software  
-🔹 Problem Solving | Adaptabilitas | Komunikasi | Kerja Tim  
+| Kategori                | Teknologi & Tools                                                                 |
+|--------------------------|----------------------------------------------------------------------------------|
+| **Pemrograman**          | <img src="https://skillicons.dev/icons?i=python,js,php,cpp" />                   |
+| **Web Development**      | <img src="https://skillicons.dev/icons?i=html,css,nodejs" />                     |
+| **Database**             | <img src="https://skillicons.dev/icons?i=mysql" />                               |
+| **Sistem & Tools**       | <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,github" />     |
+| **Microsoft Office**     | Word, Excel, PowerPoint                                                          |
+| **Administrasi Jaringan**| Cisco, Mikrotik, TCP/IP                                                          |
+| **IoT**                  | Internet of Things (IoT)                                                         |
+| **Teknis Lainnya**       | Troubleshooting Hardware/Software, Instalasi Sistem Operasi & Software           |
+| **Soft Skills**          | Problem Solving, Adaptabilitas, Komunikasi, Kerja Tim                            |
 
 ---
 
