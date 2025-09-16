@@ -1,6 +1,6 @@
 <!-- Profil README -->
 
-<h1 align="center">Hi 👋, I'm Effendy</h1>
+<h1 align="center">Hello World!, I'm Efendy Candra Sasmoro</h1>
 <h3 align="center">💻 IT Enthusiast | Web Developer | Network Administrator 🚀</h3>
 
 ---
