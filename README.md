@@ -14,17 +14,27 @@
 ---
 
 ### 🚀 Tech Stack
-<!-- 💻 Pemrograman -->
-<img src="https://skillicons.dev/icons?i=python,js,php,cpp" />
+### 💡 Kemampuan IT
+<p align="center">
+  <!-- Pemrograman -->
+  <img src="https://skillicons.dev/icons?i=python,js,php,cpp" /><br/>
+  
+  <!-- Web Development -->
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs" /><br/>
+  
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mysql" /><br/>
+  
+  <!-- Tools & OS -->
+  <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,github" />
+</p>
 
-<!-- 🌐 Web Development -->
-<img src="https://skillicons.dev/icons?i=html,css,nodejs" />
-
-<!-- 🗄️ Database -->
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<!-- ⚙️ Tools & Sistem Operasi -->
-<img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,github" />
+🔹 Microsoft Office (Word, Excel, PowerPoint)  
+🔹 Administrasi Jaringan (Cisco, Mikrotik, TCP/IP)  
+🔹 Internet of Things (IoT)  
+🔹 Troubleshooting Hardware & Software  
+🔹 Instalasi Sistem Operasi & Software  
+🔹 Problem Solving | Adaptabilitas | Komunikasi | Kerja Tim  
 
 ---
 
