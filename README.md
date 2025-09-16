@@ -12,19 +12,17 @@
 - 🚀 Bersemangat membangun proyek yang **berguna dan dapat dikembangkan**  
 
 ---
-
 ### 💡 Kemampuan
-### 💡 Kemampuan IT
 
 | Kategori                | Teknologi & Tools                                                                 |
 |--------------------------|----------------------------------------------------------------------------------|
-| **Pemrograman**          | <img src="https://skillicons.dev/icons?i=python,js,php,cpp" />                   |
+| **Pemrograman**          | <img src="https://skillicons.dev/icons?i=python,js,java,php,cpp" />                   |
 | **Web Development**      | <img src="https://skillicons.dev/icons?i=html,css,nodejs" />                     |
 | **Database**             | <img src="https://skillicons.dev/icons?i=mysql" />                               |
-| **Sistem & Tools**       | <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,github" />     |
+| **Sistem & Tools**       | <img src="https://skillicons.dev/icons?i=windows,linux, androidstudio,vscode,github" />     |
 | **Microsoft Office**     | Word, Excel, PowerPoint                                                          |
 | **Administrasi Jaringan**| Cisco, Mikrotik, TCP/IP                                                          |
-| **IoT**                  | Internet of Things (IoT)                                                         |
+| **IoT**                  | <img src="https://skillicons.dev/icons?i=arduino" />                                                         |
 | **Teknis Lainnya**       | Troubleshooting Hardware/Software, Instalasi Sistem Operasi & Software           |
 | **Soft Skills**          | Problem Solving, Adaptabilitas, Komunikasi, Kerja Tim                            |
 
