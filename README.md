@@ -1,64 +1,44 @@
-<!-- Banner Hacker Style -->
+<!-- Profil README -->
+
+<h1 align="center">Hi 👋, I'm Effendy</h1>
+<h3 align="center">💻 IT Enthusiast | Web Developer | Network Administrator 🚀</h3>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 Informatics Engineering graduate  
+- 🔧 Skilled in **Web Development, Networking, and Troubleshooting**  
+- 🌱 Always learning **New Technologies**  
+- 🚀 Passionate about building **useful & scalable projects**
+
+---
+
+### 🚀 Tech Stack
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Booting+Up+System...;Bypassing+Firewall...;Access+Granted...;Welcome+to+Effendy+Candra+Sasmoro's+Profile;>_+Cybersecurity+%7C+Networking+%7C+Web+Development;Terminal+Online+..." alt="Hacker Banner" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,tailwind,python,mysql,linux,git,github,vscode" />
 </p>
 
 ---
 
-# 🕶️ Effendy Candra Sasmoro  
-
-💻 **Informatics Engineering Graduate | Cybersecurity Enthusiast | Networking Specialist**  
-🔐 Passionate about **IT Security, Networking, and Web Development**  
-⚡ Motto: *"Exploit knowledge, not systems."*  
-
----
-
-## 🛡️ Cyber Skills  
-
-### 🔐 Keamanan & Jaringan  
-- Network Administration & Troubleshooting  
-- Cybersecurity Fundamentals (Jaringan & Sistem)  
-- OS Installation & Hardening  
-- Ethical Hacking Basics  
-
-### 💻 Pemrograman  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
-
-### ⚙️ Tools & Platform  
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)  
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=fff)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=fff)  
-
----
-
-## 📊 Statistik GitHub  
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=effendycs&show_icons=true&theme=radical" alt="stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=effendycs&theme=radical" alt="streak" />
 </p>
 
 ---
 
-## 📡 Hubungi Saya  
-
-- 📧 Email: **effendycndr@gmail.com**  
-- 🔗 [LinkedIn – Effendy Candra Sasmoro](https://linkedin.com/in/effendy-candra-sasmoro)  
+### 🌎 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/effendy-candra-sasmoro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:effendycndr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif" width="300" alt="Matrix Hacker Gif"/>
-</p>
-
-<p align="center">
-  🕶️ <i>"In cybersecurity, knowledge is the ultimate weapon."</i> 🕶️
-</p>
+⭐️ From [Effendy](https://github.com/effendycs)
