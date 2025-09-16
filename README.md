@@ -1,6 +1,6 @@
 <!-- Banner Hacker Style -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Access+Granted...;Welcome+to+Effendy+Candra+Sasmoro's+Profile;Cybersecurity+%7C+Networking+%7C+Web+Development" alt="Hacker Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+System...;Access+Granted...;Welcome+to+Effendy+Candra+Sasmoro's+Profile;>_+Cybersecurity+%7C+Networking+%7C+Web+Development;Terminal+Ready+..." alt="Hacker Banner" />
 </p>
 
 ---
