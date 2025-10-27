@@ -23,26 +23,13 @@
 
 | Area | Tools / Technologies |
 |------|----------------------|
-| **Cybersecurity** | Kali Linux, Metasploit, Wireshark, Nmap, Burp Suite, Hydra, Hashcat |
+| **Office & Administrasi** | Microsoft Word • Excel • PowerPoint |
 | **Networking** | Cisco, Mikrotik, TCP/IP, Firewall, IDS/IPS |
 | **Programming** | <img src="https://skillicons.dev/icons?i=python,js,php,bash,cpp" /> |
 | **Web Development** | <img src="https://skillicons.dev/icons?i=html,css,nodejs,react" /> |
 | **IoT & Embedded** | <img src="https://skillicons.dev/icons?i=arduino" /> • ESP8266 • MQTT |
 | **Operating Systems** | <img src="https://skillicons.dev/icons?i=linux,windows" /> |
-| **Soft Skills** | Critical Thinking • Problem Solving • Research • Adaptability |
-
----
-
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=effendycs&show_icons=true&theme=merko&hide_border=true&title_color=00FFAA&icon_color=00FFAA" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=effendycs&theme=merko&hide_border=true&ring=00FFAA&currStreakLabel=00FFAA" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=effendycs&theme=merko&hide_border=true&color=00FFAA" alt="Activity Graph"/>
-</p>
+| **Soft Skills** | Problem Solving • Research • Adaptability • Teamwork |
 
 ---
 
