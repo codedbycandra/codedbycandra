@@ -35,9 +35,13 @@
 
 ### 🧠 Fokus & Ketertarikan
 🗂️ Administrasi Perkantoran Berbasis IT – menggunakan Microsoft Office (Word, Excel, PowerPoint) untuk kebutuhan laporan, dokumentasi, dan administrasi data.
+
 🌐 Jaringan Komputer (Networking) – fokus pada konfigurasi, manajemen, dan troubleshooting perangkat jaringan seperti Cisco dan Mikrotik.
+
 💻 Pemrograman & Pengembangan Web – menguasai bahasa seperti Python, JavaScript, dan PHP.
+
 🤖 Internet of Things (IoT) – memiliki minat dalam mengintegrasikan perangkat keras seperti Arduino dan ESP8266 dengan sistem jaringan untuk solusi otomatisasi.
+
 🧩 Analisis Sistem & Troubleshooting – menikmati proses mendiagnosis dan memperbaiki masalah teknis baik di software maupun hardware.
 
 ---
