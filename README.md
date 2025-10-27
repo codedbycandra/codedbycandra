@@ -10,17 +10,13 @@
 ---
 
 ### 🧩 Tentang Saya
-> "Security is not about paranoia — it's about preparation."
+> "A Bachelor’s degree graduate in Informatics Engineering from Pamulang University, possessing strong skills in computer operation, programming, computer networking, system installation, and proficiency in Microsoft Office for administrative and reporting purposes. Highly adaptable to various work environments and ready to handle operational challenges effectively."
 
-Saya seorang **Cybersecurity Enthusiast & IT Professional** dengan minat tinggi di bidang:
-- 🔐 Keamanan jaringan & sistem
-- 🧠 Analisis kerentanan & ethical hacking
-- 💻 Pengembangan web & otomasi skrip
-- 🌐 Internet of Things (IoT) dan Keamanan Perangkat Terkoneksi  
-
-🎓 Lulusan **S1 Teknik Informatika – Universitas Pamulang, Tangerang Selatan**  
-📚 Aktif belajar tentang **penetration testing, digital forensics, dan network hardening**
-
+ Lulusan S1 Teknik Informatika dari Universitas Pamulang dengan keterampilan kuat dalam
+ pengoperasian komputer, pemrograman, jaringan komputer, instalasi sistem, dan penguasaan
+ Microsoft Office untuk keperluan administrasi dan pelaporan. Serta mampu beradaptasi dengan
+ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efektif.
+ 
 ---
 
 ### ⚙️ Skillset
