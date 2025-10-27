@@ -1,6 +1,6 @@
 <!-- Profil README -->
 
-<h1 align="center">👋 Halo Dunia! Saya <span style="color:#ff4081;">Effendy Candra Sasmoro</span></h1>
+<h1 align="center">👋 Hello Word! Saya <span style="color:#ff4081;">Effendy Candra Sasmoro</span></h1>
 <h3 align="center">💻 Web Developer | 🧠 IT Support | 📊 Data Analyst | 🌐 Network Administrator | 🤖 IoT Enthusiast</h3>
 
 <p align="center">
