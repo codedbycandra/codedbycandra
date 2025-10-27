@@ -25,8 +25,8 @@
 |------|----------------------|
 | **Office & Administrasi** | Microsoft Word • Excel • PowerPoint |
 | **Networking** | Cisco, Mikrotik, TCP/IP, Firewall, IDS/IPS |
-| **Programming** | <img src="https://skillicons.dev/icons?i=python,js,php,bash,cpp" /> |
-| **Web Development** | <img src="https://skillicons.dev/icons?i=html,css,nodejs,react" /> |
+| **Programming** | <img src="https://skillicons.dev/icons?i=python,js,php,cpp" /> |
+| **Web Development** | <img src="https://skillicons.dev/icons?i=html,css,js,php" /> |
 | **IoT & Embedded** | <img src="https://skillicons.dev/icons?i=arduino" /> • ESP8266 • MQTT |
 | **Operating Systems** | <img src="https://skillicons.dev/icons?i=linux,windows" /> |
 | **Soft Skills** | Problem Solving • Research • Adaptability • Teamwork |
