@@ -21,11 +21,11 @@
 
 ### ⚙️ Skillset
 
-| Area | Tools / Technologies |
+| Bidang | Tools / Technologies |
 |------|----------------------|
 | **Office & Administrasi** | Microsoft Word • Excel • PowerPoint |
 | **Web Development** | <img src="https://skillicons.dev/icons?i=html,css,js,php" /> |
-| **Networking** | Cisco • Mikrotik" /> |
+| **Networking** | Cisco • Mikrotik |
 | **Programming** | <img src="https://skillicons.dev/icons?i=python,cpp" /> |
 | **IoT & Embedded** | <img src="https://skillicons.dev/icons?i=arduino" /> |
 | **Operating Systems** | <img src="https://skillicons.dev/icons?i=windows,linux" /> |
@@ -65,8 +65,8 @@
 ---
 
 ### 🧬 Quote of the Day
-> "The quieter you become, the more you are able to hear."  
-> — *Ram Dass*
+> "*"Every challenge is an opportunity to grow."*  
+> — *Setiap tantangan adalah kesempatan untuk berkembang.*
 
 ---
 
