@@ -55,11 +55,8 @@
   <a href="mailto:effendycndr@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/effendycs">
+  <a href="[https://github.com/codedbycandra">
     <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/-HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=green"/>
