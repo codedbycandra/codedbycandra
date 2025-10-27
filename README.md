@@ -48,41 +48,20 @@
 
 ### 🌍 Connect With Me
 
-<style>
-  .social-buttons {
-    text-align: center;
-    margin-top: 20px;
-  }
-
-  .social-buttons a {
-    display: inline-block;
-    margin: 0 10px;
-    transition: transform 0.3s, box-shadow 0.3s;
-    border-radius: 10px;
-  }
-
-  .social-buttons a img {
-    display: block;
-    border-radius: 10px;
-  }
-
-  .social-buttons a:hover {
-    transform: translateY(-5px) scale(1.05);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-  }
-</style>
-
-<div class="social-buttons">
+<p align="center">
   <a href="https://linkedin.com/in/effendy-candra-sasmoro" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:emailkamu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/codedbycandra" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://wa.me/62895384500087" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-</div>
+</p>
 
 
 ---
