@@ -1,53 +1,65 @@
 <!-- Profil README -->
 
-<h1 align="center">⚡ Hey there, I'm <span style="color:#00FF9C;">Effendy Candra Sasmoro</span> 🕶️</h1>
-<h3 align="center">💀 Cybersecurity Enthusiast | 🖥️ Web Developer | 🧠 Network & System Analyst | 🔐 Ethical Hacker in Progress</h3>
+<h1 align="center">🕶️ Effendy Candra Sasmoro</h1>
+<h3 align="center">Cybersecurity Analyst | Network Administrator | Web Developer | IoT Researcher</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Hacker Animation" />
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="250" alt="coding hacker"/>
 </p>
 
 ---
 
-### 🧠 About Me
-> “Security is not a product, but a process.” – Bruce Schneier  
+### 🧩 Tentang Saya
+> "Security is not about paranoia — it's about preparation."
 
-- 🎓 **S1 Teknik Informatika – Universitas Pamulang (Tangerang Selatan)**  
-- 🧑‍💻 Passionate di bidang **Cybersecurity, Network Defense, Web Development, & IoT Security**  
-- 🔍 Suka melakukan **analisis keamanan, pentesting, dan eksplorasi exploit** di lab pribadi  
-- 🧩 Berorientasi pada solusi & pembelajaran teknologi baru yang relevan  
-- 🛡️ Misi: **Menjadi bagian dari ekosistem keamanan digital yang aman & beretika**
+Saya seorang **Cybersecurity Enthusiast & IT Professional** dengan minat tinggi di bidang:
+- 🔐 Keamanan jaringan & sistem
+- 🧠 Analisis kerentanan & ethical hacking
+- 💻 Pengembangan web & otomasi skrip
+- 🌐 Internet of Things (IoT) dan Keamanan Perangkat Terkoneksi  
+
+🎓 Lulusan **S1 Teknik Informatika – Universitas Pamulang, Tangerang Selatan**  
+📚 Aktif belajar tentang **penetration testing, digital forensics, dan network hardening**
 
 ---
 
-### 🧰 Tech Arsenal
+### ⚙️ Skillset
 
-| Kategori | Tools & Teknologi |
-|-----------|------------------|
-| **Cybersecurity & Pentest** | Kali Linux, Metasploit, Wireshark, Nmap, Burp Suite, JohnTheRipper |
-| **Network & System** | Cisco, Mikrotik, TCP/IP, Firewall, Packet Tracer, VPN, Snort |
-| **Programming** | <img src="https://skillicons.dev/icons?i=python,js,php,cpp" /> + Bash, PowerShell |
-| **Web Dev & API** | <img src="https://skillicons.dev/icons?i=html,css,nodejs,react" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mysql" /> |
-| **OS & Tools** | <img src="https://skillicons.dev/icons?i=linux,windows,vscode,github" /> |
+| Area | Tools / Technologies |
+|------|----------------------|
+| **Cybersecurity** | Kali Linux, Metasploit, Wireshark, Nmap, Burp Suite, Hydra, Hashcat |
+| **Networking** | Cisco, Mikrotik, TCP/IP, Firewall, IDS/IPS |
+| **Programming** | <img src="https://skillicons.dev/icons?i=python,js,php,bash,cpp" /> |
+| **Web Development** | <img src="https://skillicons.dev/icons?i=html,css,nodejs,react" /> |
 | **IoT & Embedded** | <img src="https://skillicons.dev/icons?i=arduino" /> • ESP8266 • MQTT |
-| **Soft Skills** | Problem Solving • Analytical Thinking • Adaptability • Team Collaboration |
+| **Operating Systems** | <img src="https://skillicons.dev/icons?i=linux,windows" /> |
+| **Soft Skills** | Critical Thinking • Problem Solving • Research • Adaptability |
 
 ---
 
-### 🧩 Cyber Stats
+### 📊 GitHub Overview
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=effendycs&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=effendycs&theme=chartreuse-dark&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=effendycs&show_icons=true&theme=merko&hide_border=true&title_color=00FFAA&icon_color=00FFAA" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=effendycs&theme=merko&hide_border=true&ring=00FFAA&currStreakLabel=00FFAA" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=effendycs&theme=react-dark&hide_border=true&area=true&color=00FF9C" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=effendycs&theme=merko&hide_border=true&color=00FFAA" alt="Activity Graph"/>
 </p>
 
 ---
 
-### 🕸️ Connect With Me
+### 🧠 Fokus & Ketertarikan
+- 🔍 Penetration Testing & Ethical Hacking  
+- 🌐 Network Security & Firewall Hardening  
+- 🧰 Open Source Security Tools  
+- 🛰️ IoT Device Security & Automation  
+- ⚡ Script Automation (Python / Bash)  
+
+---
+
+### 🌍 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/effendy-candra-sasmoro" target="_blank">
@@ -69,13 +81,10 @@
 
 ---
 
-### 💀 Terminal Mode
-```bash
-> whoami
-effendycs
+### 🧬 Quote of the Day
+> "The quieter you become, the more you are able to hear."  
+> — *Ram Dass*
 
-> skills --show
-Cybersecurity, Pentest, Network Security, Web Exploitation, IoT Security
+---
 
-> status
-[ ACTIVE ] 🔥 Always Learning | Hacking for Good | Building Secure Systems
+⭐️ From [Effendy Candra Sasmoro](https://github.com/effendycs)
