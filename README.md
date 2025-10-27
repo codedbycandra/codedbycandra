@@ -25,7 +25,7 @@
 |------|----------------------|
 | **Office & Administrasi** | Microsoft Word • Excel • PowerPoint |
 | **Web Development** | <img src="https://skillicons.dev/icons?i=html,css,js,php" /> |
-| **Networking** | <img src="https://skillicons.dev/icons?i=cisco,mikrotik" /> |
+| **Networking** | Cisco • Mikrotik" /> |
 | **Programming** | <img src="https://skillicons.dev/icons?i=python,cpp" /> |
 | **IoT & Embedded** | <img src="https://skillicons.dev/icons?i=arduino" /> |
 | **Operating Systems** | <img src="https://skillicons.dev/icons?i=windows,linux" /> |
