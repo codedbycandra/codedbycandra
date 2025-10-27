@@ -1,11 +1,11 @@
 <!-- Profil README -->
 
-<h1 align="center">Effendy Candra Sasmoro</h1>
-<h3 align="center">Data Entry | IT Support | Network Administrator | Web Developer | Internet of Things</h3>
-
 <p align="center">
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="250" alt="coding hacker"/>
 </p>
+
+<h1 align="center">Effendy Candra Sasmoro</h1>
+<h3 align="center">Data Entry | IT Support | Network Administrator | Web Developer | Internet of Things</h3>
 
 ---
 
