@@ -48,18 +48,42 @@
 
 ### 🌍 Connect With Me
 
-<p align="center">
+<style>
+  .social-buttons {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .social-buttons a {
+    display: inline-block;
+    margin: 0 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    border-radius: 10px;
+  }
+
+  .social-buttons a img {
+    display: block;
+    border-radius: 10px;
+  }
+
+  .social-buttons a:hover {
+    transform: translateY(-5px) scale(1.05);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  }
+</style>
+
+<div class="social-buttons">
   <a href="https://linkedin.com/in/effendy-candra-sasmoro" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- Gmail dihapus karena tidak ingin terhubung -->
   <a href="https://github.com/codedbycandra" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://wa.me/62895384500087" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-</p>
+</div>
+
 
 ---
 
