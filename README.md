@@ -29,7 +29,7 @@
 | **Internet of Things(IoT)** | <img src="https://skillicons.dev/icons?i=arduino" /> |
 | **Operating Systems** | <img src="https://skillicons.dev/icons?i=windows,linux" /> |
 | **BasisData** | <img src="https://skillicons.dev/icons?i=mysql" /> |
-| **Networking** | Cisco • Mikrotik |
+| **Network Administrator** | Cisco • Mikrotik |
 | **Soft Skills** | Problem Solving • Research • Adaptability • Teamwork |
 
 ---
