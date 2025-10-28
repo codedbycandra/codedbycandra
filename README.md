@@ -25,11 +25,11 @@
 |------|----------------------|
 | **Office & Administrasi** | Microsoft Word • Excel • PowerPoint |
 | **Web Development** | <img src="https://skillicons.dev/icons?i=html,css,js,php" /> |
-| **Networking** | Cisco • Mikrotik |
 | **Programming** | <img src="https://skillicons.dev/icons?i=python,cpp,java" /> |
 | **Internet of Things(IoT)** | <img src="https://skillicons.dev/icons?i=arduino" /> |
 | **Operating Systems** | <img src="https://skillicons.dev/icons?i=windows,linux" /> |
 | **BasisData** | <img src="https://skillicons.dev/icons?i=mysql" /> |
+| **Networking** | Cisco • Mikrotik |
 | **Soft Skills** | Problem Solving • Research • Adaptability • Teamwork |
 
 ---
