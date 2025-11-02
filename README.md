@@ -43,43 +43,65 @@ I enjoy creating **web applications**, building **IoT solutions**, managing **ne
 ---
 
 ### 🕸️ IoT & Embedded Systems
-- 🛠️ **ESP32/ESP8266**, **Arduino**, **Raspberry Pi**  
+- 🛠️ **ESP32**, **ESP8266**, **Arduino**, **Raspberry Pi**  
 - 🔗 Communication Protocols: **MQTT**, **HTTP/HTTPS**, **CoAP**  
 - 🌐 Cloud Platforms: **AWS IoT**, **Google Cloud IoT**, **ThingSpeak**  
-- 📦 Development Tools: **PlatformIO**, **Arduino IDE**  
+- 📦 Development Tools: **PlatformIO**, **Arduino IDE**, **Thinger.io**  
+- 🔌 **Bluetooth**, **Zigbee**, **LoRaWAN**
+
+![ESP32](https://img.shields.io/badge/ESP32-8AEB37?style=for-the-badge&logo=esp32&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
 
 ### 🖥️ Network & Systems Administration
-- 🖧 **TCP/IP**, **DHCP**, **DNS**, **VLAN**, **VPN**  
-- 🔐 Network Security: **Firewalls**, **Intrusion Detection Systems**  
-- 💻 Virtualization: **VMware**, **Docker**, **Kubernetes**  
-- 🌐 Cloud Networking: **AWS VPC**, **Google Cloud Networking**  
-- 🛠️ Automation: **Ansible**, **Puppet**  
+- 🖧 **TCP/IP**, **DHCP**, **DNS**, **VLAN**, **VPN**, **NAT**  
+- 🔐 **Firewall** Management: **pfSense**, **iptables**  
+- 💻 **Virtualization**: **VMware**, **VirtualBox**, **KVM**, **Docker**  
+- 📡 **Wi-Fi Configuration**: **802.11x**, **Wi-Fi 6**, **Signal Optimization**  
+- 🖥️ **Monitoring & Logging**: **Nagios**, **Zabbix**, **Prometheus**, **Grafana**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-000000?style=for-the-badge&logo=kvm&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-009E5B?style=for-the-badge&logo=pfsense&logoColor=white)
 
 ---
 
 ### ☁️ Cloud Computing & DevOps
 - ☁️ **AWS**, **Google Cloud**, **Azure**  
-- 🧰 **Docker**, **Kubernetes**, **CI/CD Pipelines (GitHub Actions, Jenkins)**  
-- 🔧 **Terraform**, **Ansible**, **Chef**  
-- 📈 Monitoring: **Prometheus**, **Grafana**, **CloudWatch**  
-- 🗂️ Version Control: **Git**, **GitHub**, **GitLab**  
+- 🧰 **Docker**, **Kubernetes**, **CI/CD Pipelines**  
+- 🔧 **Terraform**, **Ansible**, **Chef**, **Jenkins**  
+- 📈 **Monitoring**: **Prometheus**, **Grafana**, **CloudWatch**  
+- 🗂️ **Git** for Version Control, **GitHub Actions** for CI/CD  
+- 🏗️ **Infrastructure as Code** (IaC)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
 ### 🤖 Artificial Intelligence & Machine Learning
-- 🤖 **TensorFlow**, **Keras**, **PyTorch**  
-- 📊 **Pandas**, **NumPy**, **Matplotlib**  
+- 🤖 **TensorFlow**, **PyTorch**, **Keras**  
+- 📊 **Pandas**, **NumPy**, **Scikit-learn**, **Matplotlib**  
 - 🧠 **Machine Learning Models**: Supervised Learning, Unsupervised Learning, NLP  
-- 🧑‍💻 **AI Frameworks**: **Scikit-learn**, **OpenCV**  
+- 📐 **Computer Vision**: **OpenCV**, **Image Processing**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
 ### 🔧 Tools & IDE
 - **VSCode**, **PyCharm**, **Eclipse**  
-- **Postman**, **Insomnia**  
+- **Postman**, **Insomnia**, **Swagger**  
 - **Figma**, **Adobe XD**, **Photoshop**
+
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -88,45 +110,5 @@ I enjoy creating **web applications**, building **IoT solutions**, managing **ne
 1. 🌐 **[MyPortfolio](https://github.com/[USERNAME]/MyPortfolio)**  
    A personal portfolio built with **React** and **TailwindCSS** to showcase my projects.
 
-2. 🏫 **[SmartAttendance](https://github.com/[USERNAME]/SmartAttendance)**  
-   A **Face Recognition Attendance System** using **Python** and **OpenCV**.
-
-3. 🔧 **[RESTful API Starter](https://github.com/[USERNAME]/RESTful-API-Starter)**  
-   A **Node.js** and **Express** boilerplate for building REST APIs.
-
-4. 📡 **[IoT Weather Station](https://github.com/[USERNAME]/IoT-Weather-Station)**  
-   A **IoT-based weather station** built with **ESP32** and **ThingSpeak** to monitor environmental data.
-
-5. 🛠️ **[Network Monitoring System](https://github.com/[USERNAME]/NetworkMonitoring)**  
-   A network monitoring tool that uses **SNMP** and **Grafana** for real-time network analytics.
-
-6. 🎓 **[Final Year Project](https://github.com/[USERNAME]/ProjectTA)**  
-   [Judul Proyek / Skripsi] – A brief description of your FYP and technologies used.  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 🏆 Achievements & Certifications
-- 🥇 Finalist in **[Hackathon / Competition Name]**  
-- 📜 Completed **AWS Cloud Practitioner**, **Google Cloud Fundamentals**, **Certified Ethical Hacker (CEH)**  
-- 💡 Active contributor to **[Open Source Project Name]**  
-
----
-
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[USERNAME])
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:[EMAILKAMU])
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-blue?style=for-the-badge)](https://[PORTFOLIO_KAMU].com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[USERNAME])
-
----
-
-> 💬 *"Technology is best when it brings people together."* — Matt Mullenweg
-> 
+2. 🏫 **[SmartAttendance](https://github.com/[USERNAME]/Smart
+3. 
