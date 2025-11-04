@@ -1,114 +1,101 @@
-# 👋 Hi, I'm [Nama Lengkap Kamu]
+**Effendy Candra Sasmoro**
 
-🎓 **Bachelor of Informatics Engineering** | 💻 **Fullstack Developer | Web Developer | IoT & Network Enthusiast**  
-🌱 **Learning Cloud Architecture, Network Security, DevOps, IoT** | 💬 **Passionate About Tech Solutions**
+🎓 **Bachelor of Informatics Engineering – Universitas Pamulang**  
+💼 **IT Support | Web Developer | Network & Computer Technician**  
+📍 Tangerang, Banten – Indonesia  
+🌱 Passionate about Technology, Problem Solving, and Continuous Learning
 
 ---
 
 ### 🧑‍💻 About Me
-I'm a **Tech enthusiast** and **Informatics Engineering graduate** with a diverse set of skills.  
-I enjoy creating **web applications**, building **IoT solutions**, managing **networks**, and diving into **cloud technologies**.
+I am an **Informatics Engineering graduate** with strong technical skills in **computer systems, networking, software troubleshooting, and web development**.  
+I enjoy solving problems, optimizing workflows, and learning new technologies to improve my capabilities.
 
-- 🔭 Currently exploring: **Network Administration, Cloud Solutions, and IoT Development**  
-- 🌱 Learning: **Kubernetes, AWS, Network Security, Automation with Ansible**  
-- 💬 Ask me about: **Web Development, Networking, IoT, Cloud Computing, and DevOps**  
-- ⚡ Fun fact: I'm an advocate for **open source**, **clean code**, and **innovation**  
+With experience in both **IT Support & Production Environment**, I am adaptable, detail-oriented, and always ready to learn something new.
 
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Programming & Scripting Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-#### 🌐 Web Development (Frontend & Backend)
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- 🔭 Currently exploring: **Web Development, Computer Networks, and Data Analysis**  
+- 🌱 Learning: **Laravel, React, Network Administration, Cloud Basics**  
+- 🛠 Skilled in: **Troubleshooting, Networking, Microsoft Office, and Technical Support**  
+- ⚡ Fun fact: I love finding efficient ways to solve technical challenges  
 
 ---
 
-### 🕸️ IoT & Embedded Systems
-- 🛠️ **ESP32**, **ESP8266**, **Arduino**, **Raspberry Pi**  
-- 🔗 Communication Protocols: **MQTT**, **HTTP/HTTPS**, **CoAP**  
-- 🌐 Cloud Platforms: **AWS IoT**, **Google Cloud IoT**, **ThingSpeak**  
-- 📦 Development Tools: **PlatformIO**, **Arduino IDE**, **Thinger.io**  
-- 🔌 **Bluetooth**, **Zigbee**, **LoRaWAN**
-
-![ESP32](https://img.shields.io/badge/ESP32-8AEB37?style=for-the-badge&logo=esp32&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+### 🎓 Education
+- **S1 Teknik Informatika** – Universitas Pamulang (IPK 3.24)  
+  *2018 – 2022*  
+- **Teknik Komputer & Jaringan** – SMK Negeri 5 Kab. Tangerang  
+  *2015 – 2018*
 
 ---
 
-### 🖥️ Network & Systems Administration
-- 🖧 **TCP/IP**, **DHCP**, **DNS**, **VLAN**, **VPN**, **NAT**  
-- 🔐 **Firewall** Management: **pfSense**, **iptables**  
-- 💻 **Virtualization**: **VMware**, **VirtualBox**, **KVM**, **Docker**  
-- 📡 **Wi-Fi Configuration**: **802.11x**, **Wi-Fi 6**, **Signal Optimization**  
-- 🖥️ **Monitoring & Logging**: **Nagios**, **Zabbix**, **Prometheus**, **Grafana**
+### 💼 Work Experience
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![KVM](https://img.shields.io/badge/KVM-000000?style=for-the-badge&logo=kvm&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-009E5B?style=for-the-badge&logo=pfsense&logoColor=white)
+#### 🏭 Helper Produksi – PT Dellifood Sentosa Corpindo (Mayora Group)  
+*Nov 2024 – Jan 2025*  
+- Operated and maintained production tools  
+- Ensured quality and cleanliness during production  
+- Supported documentation and workflow processes  
 
----
-
-### ☁️ Cloud Computing & DevOps
-- ☁️ **AWS**, **Google Cloud**, **Azure**  
-- 🧰 **Docker**, **Kubernetes**, **CI/CD Pipelines**  
-- 🔧 **Terraform**, **Ansible**, **Chef**, **Jenkins**  
-- 📈 **Monitoring**: **Prometheus**, **Grafana**, **CloudWatch**  
-- 🗂️ **Git** for Version Control, **GitHub Actions** for CI/CD  
-- 🏗️ **Infrastructure as Code** (IaC)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+#### 🧪 Quality Control Intern – PT Takagi Sari Multi Utama  
+*Dec 2016 – Mar 2017*  
+- Conducted product quality checks  
+- Assisted in laboratory analysis  
+- Supported QC team in daily operational tasks  
 
 ---
 
-### 🤖 Artificial Intelligence & Machine Learning
-- 🤖 **TensorFlow**, **PyTorch**, **Keras**  
-- 📊 **Pandas**, **NumPy**, **Scikit-learn**, **Matplotlib**  
-- 🧠 **Machine Learning Models**: Supervised Learning, Unsupervised Learning, NLP  
-- 📐 **Computer Vision**: **OpenCV**, **Image Processing**
+### 🛠️ Skills
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+#### 💻 Technical Skills
+- **Microsoft Office (Excel, Word, PowerPoint)**  
+- **Data Analysis & Basic Database (MySQL)**  
+- **Web Development (HTML, CSS, PHP, JavaScript)**  
+- **Domain & Hosting Management**  
+- **Operating System Installation & Configuration**  
+- **Software & Hardware Troubleshooting**
+
+#### 🌐 Networking Skills
+- **Network Administration Basics**  
+- **LAN/WAN Setup & Configuration**  
+- **Router/Switch Configuration**  
+- **IP Addressing, DHCP, DNS, VLAN**  
+- **Network Troubleshooting**  
+- **BNSP Certified – Junior Network Administrator**
 
 ---
 
-### 🔧 Tools & IDE
-- **VSCode**, **PyCharm**, **Eclipse**  
-- **Postman**, **Insomnia**, **Swagger**  
-- **Figma**, **Adobe XD**, **Photoshop**
-
+### 🧰 Tools
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 🚀 Projects Highlights
+### 🚀 Project Highlights
+*(Projects based on your skills — bisa diperbarui saat Anda punya repo GitHub)*
 
-1. 🌐 **[MyPortfolio](https://github.com/[USERNAME]/MyPortfolio)**  
-   A personal portfolio built with **React** and **TailwindCSS** to showcase my projects.
+1. ✅ **Simple Inventory App**  
+   CRUD web application for managing product stock using PHP & MySQL.
 
-2. 🏫 **[SmartAttendance](https://github.com/[USERNAME]/Smart
-3. 
+2. ✅ **Network Configuration Lab (Simulation)**  
+   Setup VLAN, DHCP, DNS, and routing using Cisco Packet Tracer.
+
+3. ✅ **Personal Portfolio Website**  
+   Portfolio to showcase experience, education, and skills.
+
+---
+
+### 📫 Contact Me
+- 📧 **effendycndr@gmail.com**  
+- 📞 **+62 895384500087**  
+- 🔗 **linkedin.com/in/effendy-candra-sasmoro**  
+- 📍 Tangerang, Banten – Indonesia
+
+---
+
+### ✅ Summary
+I am a fast learner, highly adaptable, and passionate about technology—ready to contribute in IT Support, Networking, Web Development, or related technical roles.
+
