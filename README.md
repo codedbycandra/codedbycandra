@@ -13,13 +13,9 @@
 ---
 
 ## 🚀 About Me
-I am an **Informatics Engineering** with strong skills in  
-**Networking, IT Support, Web Development, Troubleshooting, and Technical Analysis**.
-
-- 🎓 *Bachelor of Informatics Engineering – Universitas Pamulang*  
-- 🛠 Experience in IT Support, Network Basics, and Web Development  
-- 🌱 Continuously learning **Laravel, React, Cloud, and Network Administration**  
-- ⚡ A fast learner who loves solving technical problems  
+Lulusan S1 Teknik Informatika dari Universitas Pamulang dengan keterampilan kuat dalam pengoperasian komputer, pemrograman, jaringan komputer, instalasi sistem, dan penguasaan
+Microsoft Office untuk keperluan administrasi dan pelaporan. Serta mampu beradaptasi dengan
+berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efektif.
 
 ---
 
@@ -61,25 +57,7 @@ I am an **Informatics Engineering** with strong skills in
 ---
 
 ## 🎓 Education
-- **S1 Teknik Informatika** – Universitas Pamulang (IPK 3.24)  
-- **TKJ (Teknik Komputer & Jaringan)** – SMK Negeri 5 Kab. Tangerang  
-
----
-
-## 💼 Work Experience
-
-### 🏭 Helper Produksi – PT Dellifood Sentosa Corpindo (Mayora Group)
-*Nov 2024 – Jan 2025*  
-✅ Operated production tools  
-✅ Ensured quality and workflow  
-✅ Maintained documentation  
-
-### 🧪 Quality Control Intern – PT Takagi Sari Multi Utama  
-*Dec 2016 – Mar 2017*  
-✅ Conducted product inspections  
-✅ Assisted QC daily operations  
-✅ Supported analysis and documentation  
-
+- **S1 Teknik Informatika** – Universitas Pamulang
 ---
 
 ## 🚀 Highlight Projects  
