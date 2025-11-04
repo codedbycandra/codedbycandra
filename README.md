@@ -3,8 +3,8 @@
   <img src="https://i.ibb.co.com/m5p9kG2p/github-header.png" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <b>Effendy Candra Sasmoro</b></h1>
-<h3 align="center">Web Developer | IT Support | Network Enthusiast</h3>
+<h1 align="center"><b>Effendy Candra Sasmoro</b></h1>
+<h3 align="center">Data Analisis | Web Developer | IT Support | Network Administrator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00A8FF&size=22&center=true&vCenter=true&width=550&lines=Informatics+Engineering+Graduate;Web+Developer+%7C+IT+Support+Technician;Fast+Learner+and+Tech+Enthusiast;Always+Learning+New+Things!">
@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-I am an **Informatics Engineering graduate** with strong skills in  
+I am an **Informatics Engineering** with strong skills in  
 **Networking, IT Support, Web Development, Troubleshooting, and Technical Analysis**.
 
 - 🎓 *Bachelor of Informatics Engineering – Universitas Pamulang*  
