@@ -1,101 +1,115 @@
-**Effendy Candra Sasmoro**
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co.com/m5p9kG2p/github-header.png" width="100%" />
+</p>
 
-🎓 **Bachelor of Informatics Engineering – Universitas Pamulang**  
-💼 **IT Support | Web Developer | Network & Computer Technician**  
-📍 Tangerang, Banten – Indonesia  
-🌱 Passionate about Technology, Problem Solving, and Continuous Learning
+<h1 align="center">👋 Hi, I'm <b>Effendy Candra Sasmoro</b></h1>
+<h3 align="center">Web Developer | IT Support | Network Enthusiast</h3>
 
----
-
-### 🧑‍💻 About Me
-I am an **Informatics Engineering graduate** with strong technical skills in **computer systems, networking, software troubleshooting, and web development**.  
-I enjoy solving problems, optimizing workflows, and learning new technologies to improve my capabilities.
-
-With experience in both **IT Support & Production Environment**, I am adaptable, detail-oriented, and always ready to learn something new.
-
-- 🔭 Currently exploring: **Web Development, Computer Networks, and Data Analysis**  
-- 🌱 Learning: **Laravel, React, Network Administration, Cloud Basics**  
-- 🛠 Skilled in: **Troubleshooting, Networking, Microsoft Office, and Technical Support**  
-- ⚡ Fun fact: I love finding efficient ways to solve technical challenges  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00A8FF&size=22&center=true&vCenter=true&width=550&lines=Informatics+Engineering+Graduate;Web+Developer+%7C+IT+Support+Technician;Fast+Learner+and+Tech+Enthusiast;Always+Learning+New+Things!">
+</p>
 
 ---
 
-### 🎓 Education
+## 🚀 About Me
+I am an **Informatics Engineering graduate** with strong skills in  
+**Networking, IT Support, Web Development, Troubleshooting, and Technical Analysis**.
+
+- 🎓 *Bachelor of Informatics Engineering – Universitas Pamulang*  
+- 🛠 Experience in IT Support, Network Basics, and Web Development  
+- 🌱 Continuously learning **Laravel, React, Cloud, and Network Administration**  
+- ⚡ A fast learner who loves solving technical problems  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,bootstrap" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🖥️ IT & Networking
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,wordpress" />
+</p>
+
+- TCP/IP, DHCP, DNS, VLAN  
+- Troubleshooting Hardware & Software  
+- Domain & Hosting Setup  
+- OS Installation & Maintenance  
+
+### 🧰 Tools & Software
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EffendyCandraSasmoro&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EffendyCandraSasmoro&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎓 Education
 - **S1 Teknik Informatika** – Universitas Pamulang (IPK 3.24)  
-  *2018 – 2022*  
-- **Teknik Komputer & Jaringan** – SMK Negeri 5 Kab. Tangerang  
-  *2015 – 2018*
+- **TKJ (Teknik Komputer & Jaringan)** – SMK Negeri 5 Kab. Tangerang  
 
 ---
 
-### 💼 Work Experience
+## 💼 Work Experience
 
-#### 🏭 Helper Produksi – PT Dellifood Sentosa Corpindo (Mayora Group)  
+### 🏭 Helper Produksi – PT Dellifood Sentosa Corpindo (Mayora Group)
 *Nov 2024 – Jan 2025*  
-- Operated and maintained production tools  
-- Ensured quality and cleanliness during production  
-- Supported documentation and workflow processes  
+✅ Operated production tools  
+✅ Ensured quality and workflow  
+✅ Maintained documentation  
 
-#### 🧪 Quality Control Intern – PT Takagi Sari Multi Utama  
+### 🧪 Quality Control Intern – PT Takagi Sari Multi Utama  
 *Dec 2016 – Mar 2017*  
-- Conducted product quality checks  
-- Assisted in laboratory analysis  
-- Supported QC team in daily operational tasks  
+✅ Conducted product inspections  
+✅ Assisted QC daily operations  
+✅ Supported analysis and documentation  
 
 ---
 
-### 🛠️ Skills
+## 🚀 Highlight Projects  
+*(Akan lebih keren kalau nanti akun GitHub Anda punya repositori 😎)*
 
-#### 💻 Technical Skills
-- **Microsoft Office (Excel, Word, PowerPoint)**  
-- **Data Analysis & Basic Database (MySQL)**  
-- **Web Development (HTML, CSS, PHP, JavaScript)**  
-- **Domain & Hosting Management**  
-- **Operating System Installation & Configuration**  
-- **Software & Hardware Troubleshooting**
+### ✅ Simple Inventory App  
+CRUD web application using PHP & MySQL.
 
-#### 🌐 Networking Skills
-- **Network Administration Basics**  
-- **LAN/WAN Setup & Configuration**  
-- **Router/Switch Configuration**  
-- **IP Addressing, DHCP, DNS, VLAN**  
-- **Network Troubleshooting**  
-- **BNSP Certified – Junior Network Administrator**
+### ✅ Network Configuration Lab  
+Simulated VLAN, DHCP, DNS, and routing using Cisco Packet Tracer.
+
+### ✅ Personal Portfolio Website  
+Showcase of skills, education, and experience.
 
 ---
 
-### 🧰 Tools
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 📫 Contact Me  
+<p align="left">
+  <a href="mailto:effendycndr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://linkedin.com/in/effendy-candra-sasmoro"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+</p>
 
 ---
 
-### 🚀 Project Highlights
-*(Projects based on your skills — bisa diperbarui saat Anda punya repo GitHub)*
-
-1. ✅ **Simple Inventory App**  
-   CRUD web application for managing product stock using PHP & MySQL.
-
-2. ✅ **Network Configuration Lab (Simulation)**  
-   Setup VLAN, DHCP, DNS, and routing using Cisco Packet Tracer.
-
-3. ✅ **Personal Portfolio Website**  
-   Portfolio to showcase experience, education, and skills.
+## ✅ Fun Summary  
+I’m a **motivated, adaptable, and hardworking** Informatics Engineering graduate  
+ready to grow in **IT Support, Networking, Web Development, or any technical field**.
 
 ---
 
-### 📫 Contact Me
-- 📧 **effendycndr@gmail.com**  
-- 📞 **+62 895384500087**  
-- 🔗 **linkedin.com/in/effendy-candra-sasmoro**  
-- 📍 Tangerang, Banten – Indonesia
-
----
-
-### ✅ Summary
-I am a fast learner, highly adaptable, and passionate about technology—ready to contribute in IT Support, Networking, Web Development, or related technical roles.
-
+<p align="center">
+  <img src="https://i.ibb.co.com/5cFwWyx/footer-github.png" width="100%" />
+</p>
