@@ -32,9 +32,9 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
 
 ## 🛠 Tech Stack
 
-### **⌨️ Microsoft Office**
+### **⌨️ Administrasi dan Pelaporan**
 <p>
-  <img src="https://skillicons.dev/icons?i=ms word, ms excel, powerpoint,&theme=light" />
+  <img src="https://skillicons.dev/icons?i=msoffice,&theme=light" />
 </p>
 
 ### **💻 Programming**
