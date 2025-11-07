@@ -5,7 +5,7 @@
 
 <h1 align="center">Effendy Candra Sasmoro</h1>
 <p align="center">
-  <strong>Informatics Engineer • Web Developer • Network Administrator</strong>
+  <strong>Data Analys • Web Developer • Network Administrator • Internet of Things</strong>
 </p>
 
 <p align="center">
