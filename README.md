@@ -34,7 +34,7 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
 
 ### **⌨️ Administrasi dan Pelaporan**
 <p>
-  <img src="https://skillicons.dev/icons?i=msoffice,&theme=light" />
+  <img src="https://images.icon-icons.com/1156/PNG/512/1486565573-microsoft-office_81557.png" />
 </p>
 
 ### **💻 Programming**
