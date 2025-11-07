@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="./697dec3c-f986-4856-8383-00ff7cbb1a3d.jpg" width="650" />
+  <img src="https://img.freepik.com/premium-vector/word-cloud-background-concept-software-engineering-computer-programming-system-cloud-technology-development-application-management-vector-illustration_616200-4832.jpg" width="650" />
 </p>
 
 <h1 align="center">Effendy Candra Sasmoro</h1>
