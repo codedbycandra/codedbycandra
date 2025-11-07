@@ -1,6 +1,6 @@
 <!-- HEADER -->
-<p align="center">
-  <img src="https://i.imgur.com/Z8eE5Q8.png" width="160"/>
+<<p align="center">
+  <img src="https://i.imgur.com/QrSg79w.png" width="260">
 </p>
 
 <h1 align="center">Effendy Candra Sasmoro</h1>
