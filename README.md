@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/word-cloud-background-concept-software-engineering-computer-programming-system-cloud-technology-development-application-management-vector-illustration_616200-4832.jpg" width="650" />
+  <img src="https://faridsanitas.wordpress.com/wp-content/uploads/2015/08/teknik-informatika.jpg" width="650" />
 </p>
 
 <h1 align="center">Effendy Candra Sasmoro</h1>
