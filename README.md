@@ -23,16 +23,21 @@
 ---
 
 ## 🧑‍💻 About Me
-Saya adalah seorang Informatics Engineer dengan fokus pada **web development**, **administrasi jaringan**, **database**, dan **sistem operasi**.  
-Berpengalaman menangani troubleshooting perangkat, konfigurasi sistem, serta membangun solusi digital sederhana namun efektif.
-
-Saya mudah beradaptasi, cepat belajar, dan selalu ingin meningkatkan kemampuan teknis.
+Lulusan S1 Teknik Informatika dari Universitas Pamulang dengan keterampilan kuat dalam
+pengoperasian komputer, pemrograman, jaringan komputer, instalasi sistem, dan penguasaan
+Microsoft Office untuk keperluan administrasi dan pelaporan. Serta mampu beradaptasi dengan
+berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efektif.
 
 ---
 
 ## 🛠 Tech Stack
 
-### **💻 Programming Languages**
+### **⌨️ Microsoft Office**
+<p>
+  <img src="https://skillicons.dev/icons?i=ms word, ms excel, powerpoint,&theme=light" />
+</p>
+
+### **💻 Programming**
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,php,cpp&theme=light" />
 </p>
@@ -47,24 +52,18 @@ Saya mudah beradaptasi, cepat belajar, dan selalu ingin meningkatkan kemampuan t
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### **🛰 Networking & Infrastructure**
-✅ TCP/IP  
-✅ Cisco Router & Switch  
-✅ Mikrotik  
-✅ LAN/WAN  
-✅ Network Troubleshooting  
-✅ Basic Security  
-✅ IoT Devices  
-
-### **🖥 Operating Systems & Tools**
+### **🛰 Network Administrator**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,bash" />
+  <img src="https://skillicons.dev/icons?i=cisco, mikrotik" />
+</p>
+
+### **🖥 Operating Systems**
+<p>
+  <img src="https://skillicons.dev/icons?i=windows, linux" />
 </p>
 
 ✅ Instalasi Windows/Linux  
 ✅ Troubleshooting hardware/software  
-✅ Virtual Machines  
-✅ CLI Essentials  
 
 ---
 
