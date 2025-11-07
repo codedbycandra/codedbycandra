@@ -1,7 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="![17624756208074068483605357273150](https://github.com/user-attachments/assets/28e73dde-d280-4169-8040-530cdc95bac8)
-" width="160"/>
+  <img src="https://i.imgur.com/Z8eE5Q8.png" width="160"/>
 </p>
 
 <h1 align="center">Effendy Candra Sasmoro</h1>
