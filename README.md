@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/effendy-candra-sasmoro/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/codedbycandra">
     <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
