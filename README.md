@@ -68,7 +68,7 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
 ---
 
 ## 🎓 Certifications
-- 🏅 Junior Network Administrator (DTS)  
-- 🏅 Infrastruktur & Jaringan (BNSP)  
-- 🏅 Pemrograman – LSP Universitas Pamulang  
-- 🏅 Microsoft Office – Perguruan Tinggi Raharja  
+- 🏅 Junior Network Administrator (Digital Talent Scholarship) - 2021
+- 🏅 Infrastruktur & Jaringan (Badan Nasional Sertifikasi Profesi) - 2021
+- 🏅 Pemrograman – LSP Universitas Pamulang - 2021
+- 🏅 Microsoft Office – Perguruan Tinggi Raharja - 2018
