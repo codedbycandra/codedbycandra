@@ -30,7 +30,7 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skill
 
 ### **⌨️ Administrasi dan Pelaporan**
 <p>
