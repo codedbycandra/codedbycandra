@@ -39,12 +39,12 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
 
  **💻 Programming**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,php,cpp&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp&theme=light" />
 </p>
 
  **🌐 Web Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,nodejs" />
 </p>
 
  **🗄 Database**
@@ -61,7 +61,7 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
 <p>
   <img src="https://skillicons.dev/icons?i=windows,linux" />
 </p>
-✅ Instalasi Windows/Linux  
+✅ Instalasi Windows/Linux
 ✅ Troubleshooting Hardware/Software  
 
 ---
