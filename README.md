@@ -62,6 +62,7 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
   <img src="https://skillicons.dev/icons?i=windows,linux" />
 </p>
 ✅ Instalasi Windows/Linux
+<br>
 ✅ Troubleshooting Hardware/Software  
 
 ---
