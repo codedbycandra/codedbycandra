@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 Lulusan S1 Teknik Informatika dari Universitas Pamulang dengan keterampilan kuat dalam
-pengoperasian komputer, web developer, pemrograman, networn administrator, instalasi sistem, dan penguasaan
+pengoperasian komputer, web developer, pemrograman, network administrator, instalasi sistem, dan penguasaan
 Microsoft Office untuk keperluan administrasi dan pelaporan. Serta mampu beradaptasi dengan
 berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efektif.
 
