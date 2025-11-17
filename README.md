@@ -42,27 +42,27 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
   <img src="https://skillicons.dev/icons?i=python,js,php,cpp&theme=light" />
 </p>
 
-### **🌐 Web Development**
+ **🌐 Web Development**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,php" />
 </p>
 
-### **🗄 Database**
+ **🗄 Database**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### **🛰 Network Administrator**
+ **🛰 Network Administrator**
 <p>
   <img src="https://skillicons.dev/icons?i=cisco, mikrotik" />
 </p>
 
-### **🖥 Operating Systems**
+ **🖥 Operating Systems**
 <p>
   <img src="https://skillicons.dev/icons?i=windows, linux" />
 </p>
 ✅ Instalasi Windows/Linux  
-✅ Troubleshooting hardware/software  
+✅ Troubleshooting Hardware/Software  
 
 ---
 
