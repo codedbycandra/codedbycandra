@@ -39,7 +39,7 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
 
  **💻 Programming**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js&theme=light" />
 </p>
 
  **🌐 Web Development**
@@ -55,6 +55,11 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
  **🛰 Network Administrator**
 <p>
   <img src="https://skillicons.dev/icons?i=cisco,mikrotik" />
+</p>
+
+**🛰Internet of Things**
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
  **🖥 Operating Systems**
