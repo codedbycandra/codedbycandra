@@ -54,12 +54,12 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
 
  **🛰 Network Administrator**
 <p>
-  <img src="https://skillicons.dev/icons?i=cisco, mikrotik" />
+  <img src="https://skillicons.dev/icons?i=cisco,mikrotik" />
 </p>
 
  **🖥 Operating Systems**
 <p>
-  <img src="https://skillicons.dev/icons?i=windows, linux" />
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
 </p>
 ✅ Instalasi Windows/Linux  
 ✅ Troubleshooting Hardware/Software  
