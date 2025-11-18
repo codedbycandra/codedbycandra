@@ -34,9 +34,9 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
 
  **⌨️ Administrasi dan Pelaporan**
 <p>
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="60"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="60"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="60"/>
 </p>
 
  **🌐 Web Development**
@@ -56,7 +56,9 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
 
  **🛰 Network Administrator**
 <p>
-  <img src="https://skillicons.dev/icons?i=cisco,mikrotik" />
+  <img src="https://www.citypng.com/public/uploads/preview/cisco-square-blue-logo-icon-png-735811696612218gzoiadfplh.png" width="60"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="40"/>
 </p>
 
 **🛰Internet of Things**
