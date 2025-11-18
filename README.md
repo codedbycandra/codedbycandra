@@ -39,14 +39,14 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="40"/>
 </p>
 
- **💻 Programming**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js&theme=light" />
-</p>
-
  **🌐 Web Development**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,nodejs" />
+</p>
+
+ **💻 Programming**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js&theme=light" />
 </p>
 
  **🗄 Database**
@@ -56,7 +56,8 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
 
  **🛰 Network Administrator**
 <p>
-  <img src="https://skillicons.dev/icons?i=cisco,mikrotik" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/MikroTik_logo.png" width="90"/>
+  <img src="https://img.icons8.com/color/48/cisco.png" width="40"/>
 </p>
 
 **🛰Internet of Things**
