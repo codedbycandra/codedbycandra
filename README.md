@@ -24,11 +24,17 @@
 
 ## 🧑‍💻 About Me / Tentang Saya
 
-👋 Helo Word, I'm **Effendy Candra Sasmoro** – a **Data Analyst, Web Developer, and Network Administrator**.  
-👋 Halo Dunia, saya **Effendy Candra Sasmoro** – seorang **Data Analyst, Web Developer, dan Network Administrator**.  
+## 🧑‍💻 About Me / Tentang Saya
 
-I enjoy building web applications, analyzing data, and exploring IoT projects.  
+**Bahasa Indonesia:**  
+Halo, saya **Effendy Candra Sasmoro**, seorang **Data Analyst, Web Developer, dan Network Administrator**.  
 Saya senang membangun aplikasi web, menganalisis data, dan mengeksplorasi proyek Internet of Things (IoT).  
+Saya selalu belajar hal baru dan siap menghadapi tantangan teknologi yang kompleks.
+
+**English:**  
+> Hi, I'm **Effendy Candra Sasmoro** – a **Data Analyst, Web Developer, and Network Administrator**.  
+> I enjoy building web applications, analyzing data, and exploring Internet of Things (IoT) projects.  
+> I am always learning new things and ready to tackle complex technology challenges.
 
 ---
 
