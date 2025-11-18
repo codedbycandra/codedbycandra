@@ -34,9 +34,9 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
 
  **⌨️ Administrasi dan Pelaporan**
 <p>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftword.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftpowerpoint.svg" width="40" />
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="40"/>
 </p>
 
  **💻 Programming**
