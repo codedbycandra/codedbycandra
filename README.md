@@ -57,7 +57,7 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
  **🛰 Network Administrator**
 <p>
   <img src="https://www.citypng.com/public/uploads/preview/cisco-square-blue-logo-icon-png-735811696612218gzoiadfplh.png" width="60"/>
-  <img src="https://www.clipartmax.com/png/full/113-1134288_cloud-hosted-router-mikrotik.png" width="40"/>
+  <img src="https://www.clipartmax.com/png/full/113-1134288_cloud-hosted-router-mikrotik.png" width="70"/>
 </p>
 
 **🛰Internet of Things**
