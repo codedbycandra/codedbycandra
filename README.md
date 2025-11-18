@@ -56,8 +56,7 @@ berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efekt
 
  **🛰 Network Administrator**
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/MikroTik_logo.png" width="90"/>
-  <img src="https://img.icons8.com/color/48/cisco.png" width="40"/>
+  <img src="https://skillicons.dev/icons?i=cisco,mikrotik" />
 </p>
 
 **🛰Internet of Things**
