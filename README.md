@@ -22,11 +22,13 @@
 
 ---
 
-## 🧑‍💻 About Me
-Lulusan S1 Teknik Informatika dari Universitas Pamulang dengan keterampilan kuat dalam
-pengoperasian komputer, web developer, pemrograman, network administrator, instalasi sistem, dan penguasaan
-Microsoft Office untuk keperluan administrasi dan pelaporan. Serta mampu beradaptasi dengan
-berbagai lingkungan kerja dan siap menghadapi tantangan operasional secara efektif.
+## 🧑‍💻 About Me / Tentang Saya
+
+👋 Hi, I'm **Effendy Candra Sasmoro** – a **Data Analyst, Web Developer, and Network Administrator**.  
+👋 Halo, saya **Effendy Candra Sasmoro** – seorang **Data Analyst, Web Developer, dan Network Administrator**.  
+
+I enjoy building web applications, analyzing data, and exploring IoT projects.  
+Saya senang membangun aplikasi web, menganalisis data, dan mengeksplorasi proyek Internet of Things (IoT).  
 
 ---
 
