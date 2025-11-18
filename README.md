@@ -24,21 +24,17 @@
 
 ## 🧑‍💻 About Me / Tentang Saya
 
-## 🧑‍💻 About Me / Tentang Saya
-
-**Bahasa Indonesia:**  
 Halo, saya **Effendy Candra Sasmoro**, seorang **Data Analyst, Web Developer, dan Network Administrator**.  
 Saya senang membangun aplikasi web, menganalisis data, dan mengeksplorasi proyek Internet of Things (IoT).  
 Saya selalu belajar hal baru dan siap menghadapi tantangan teknologi yang kompleks.
 
-**English:**  
 > Hi, I'm **Effendy Candra Sasmoro** – a **Data Analyst, Web Developer, and Network Administrator**.  
 > I enjoy building web applications, analyzing data, and exploring Internet of Things (IoT) projects.  
 > I am always learning new things and ready to tackle complex technology challenges.
 
 ---
 
-## 🛠 Skill
+## 🛠 Skills/ Kemampuan 
 
  **⌨️ Administrasi dan Pelaporan**
 <p>
@@ -83,7 +79,7 @@ Saya selalu belajar hal baru dan siap menghadapi tantangan teknologi yang komple
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications/ Sertifikasi 
 - 🏅 Junior Network Administrator (Digital Talent Scholarship) - 2021
 - 🏅 Infrastruktur & Jaringan (Badan Nasional Sertifikasi Profesi) - 2021
 - 🏅 Pemrograman – LSP Universitas Pamulang - 2021
