@@ -4,7 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Data+Analyst+Web+Developer+Network+Administrator+InternetofThings" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Data+Analyst,+Web+Developer," />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Network+Administrator,+InternetofThings" />
+
 </p>
 
 <p align="center">
