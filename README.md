@@ -66,12 +66,12 @@ I enjoy learning new things and solving real-world problems using technology.
 
 ### 🌐 Web Development / Pengembangan Web
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,nodejs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,js&theme=light" />
 </p>
 
 ### 💻 Programming / Pemrograman
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java&theme=light" />
 </p>
 
 ### 🗄 Database
