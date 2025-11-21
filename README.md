@@ -76,7 +76,7 @@ I enjoy learning new things and solving real-world problems using technology.
 
 ### 🗄 Database / Basis Data
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
 </p>
 
 ### 🛜 Networking / Jaringan
@@ -87,7 +87,7 @@ I enjoy learning new things and solving real-world problems using technology.
 
 ### 🤖 IoT / Internet of Things
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino&theme=light" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light" />
 </p>
 
 ### 🖥 Operating System / Sistem Operasi
@@ -95,8 +95,10 @@ I enjoy learning new things and solving real-world problems using technology.
   <img src="https://skillicons.dev/icons?i=windows,linux&theme=light" />
 </p>
 
-✅ Instalasi Windows/Linux  
-✅ Troubleshooting Hardware/Software  
+### Other / Lain
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,gcp,debian,&theme=light" />
+</p>
 
 ---
 
