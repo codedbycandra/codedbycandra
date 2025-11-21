@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=700&lines=Data+Analyst;Web+Developer;Network+Administrator;IoT+Enthusiast;Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Data+Analyst;Web+Developer;Network+Administrator;IoT+Enthusiast;Tech+Enthusiast+from+Indonesia" />
 </p>
 
 <p align="center">
@@ -25,36 +25,49 @@
 
 ---
 
-## ✨ About Me
+## 👋 About Me / Tentang Saya
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Hi 👋 I'm **Effendy Candra Sasmoro**, a tech enthusiast who loves building systems, solving problems, and exploring innovations.
+🇮🇩 **Bahasa Indonesia**
 
-- 🔍 Data Analysis & Visualization  
-- 🌐 Web Application Development  
-- 🛜 Network Infrastructure  
-- 🤖 Internet of Things  
+Halo! Saya **Effendy Candra Sasmoro**, seorang yang memiliki minat besar di dunia teknologi, khususnya:
 
-> ⚡ *"Build. Break. Learn. Repeat."*
+- 📊 Analisis Data  
+- 🌐 Pengembangan Web  
+- 🛜 Jaringan Komputer  
+- 🤖 Internet of Things (IoT)  
+
+Saya senang belajar hal baru dan mencari solusi dari masalah menggunakan teknologi.
+
+🇬🇧 **English Version**
+
+Hi! I'm **Effendy Candra Sasmoro**, a tech enthusiast with a strong interest in:
+
+- 📊 Data Analysis  
+- 🌐 Web Development  
+- 🛜 Computer Networking  
+- 🤖 Internet of Things (IoT)  
+
+I enjoy learning new things and solving real-world problems using technology.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack / Teknologi
 
-### 🧾 Office & Reporting
+### 🧾 Office & Reporting / Administrasi
 <p>
   <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
 </p>
 
-### 🌐 Web Development
+### 🌐 Web Development / Pengembangan Web
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,nodejs&theme=light" />
 </p>
 
-### 💻 Programming
+### 💻 Programming / Pemrograman
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,js&theme=light" />
 </p>
@@ -64,28 +77,28 @@ Hi 👋 I'm **Effendy Candra Sasmoro**, a tech enthusiast who loves building sys
   <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
 </p>
 
-### 🛜 Networking
+### 🛜 Networking / Jaringan
 <p>
   <img src="https://www.citypng.com/public/uploads/preview/cisco-square-blue-logo-icon-png-735811696612218gzoiadfplh.png" width="60"/>
   <img src="https://www.clipartmax.com/png/full/113-1134288_cloud-hosted-router-mikrotik.png" width="70"/>
 </p>
 
-### 🤖 IoT
+### 🤖 IoT / Internet of Things
 <p>
   <img src="https://skillicons.dev/icons?i=arduino&theme=light" />
 </p>
 
-### 🖥 OS
+### 🖥 Operating System / Sistem Operasi
 <p>
   <img src="https://skillicons.dev/icons?i=windows,linux&theme=light" />
 </p>
 
-✅ Windows/Linux Installation  
-✅ Hardware/Software Troubleshooting  
+✅ Instalasi Windows/Linux  
+✅ Troubleshooting Hardware/Software  
 
 ---
 
-## 🚀 Projects – Effendy Candra Sasmoro
+## 🚀 Projects / Proyek
 
 <p align="center">
 <table>
@@ -93,15 +106,17 @@ Hi 👋 I'm **Effendy Candra Sasmoro**, a tech enthusiast who loves building sys
 <td width="50%">
 
 ### 🌱 IoT Plant Monitoring System
-Smart system to monitor soil moisture, temperature, and humidity.
+🇮🇩 Sistem pintar untuk memantau kelembaban tanah, suhu, dan kelembaban udara.  
+🇬🇧 Smart system to monitor soil moisture, temperature, and humidity.
 
-**Tech:** Arduino • C++ • DHT Sensor • Soil Moisture
+**Tech:** Arduino • C++ • DHT Sensor • Soil Sensor
 
 </td>
 <td width="50%">
 
 ### 📦 Web Inventory System
-Web-based inventory with authentication and dashboard.
+🇮🇩 Sistem persediaan barang berbasis web dengan dashboard admin.  
+🇬🇧 Web-based inventory system with admin panel & reporting.
 
 **Tech:** PHP • MySQL • Bootstrap
 
@@ -112,7 +127,8 @@ Web-based inventory with authentication and dashboard.
 <td width="50%">
 
 ### 📊 Data Analysis Dashboard
-Dashboard for sales & stock visualization.
+🇮🇩 Dashboard visualisasi data penjualan & stok.  
+🇬🇧 Sales and stock visualization dashboard.
 
 **Tech:** Python • Excel • MySQL • Chart.js
 
@@ -120,7 +136,8 @@ Dashboard for sales & stock visualization.
 <td width="50%">
 
 ### 📡 Network Simulation Project
-Network design simulation using MikroTik & Cisco.
+🇮🇩 Simulasi desain jaringan menggunakan MikroTik & Cisco.  
+🇬🇧 Network infrastructure design simulation.
 
 **Tech:** MikroTik • Cisco Packet Tracer • TCP/IP
 
@@ -128,10 +145,11 @@ Network design simulation using MikroTik & Cisco.
 </tr>
 
 <tr>
-<td colspan="2" width="100%">
+<td colspan="2">
 
-### 📱 Android Plant Barcode Scanner (Prototype)
-Barcode scanner app connected to Google Sheets.
+### 📱 Android Plant Barcode Scanner
+🇮🇩 Aplikasi Android untuk scan barcode tanaman dan ambil harga dari Google Sheets.  
+🇬🇧 Android app to scan plant barcode and fetch price data from Google Sheets.
 
 **Tech:** Android Studio • Firebase • Google Sheets API
 
@@ -142,31 +160,38 @@ Barcode scanner app connected to Google Sheets.
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning / Sedang Dipelajari
 
-🚀 Machine Learning  
-🚀 Backend APIs  
-🚀 Cloud Computing  
-🚀 Cyber Security  
+🇮🇩
+- Machine Learning
+- Cloud Computing
+- Backend API
+- Cyber Security
 
----
-
-## 🧩 Soft Skills
-
-✅ Problem Solving  
-✅ Critical Thinking  
-✅ Time Management  
-✅ Team Collaboration  
-✅ Adaptable  
+🇬🇧
+- Machine Learning  
+- Cloud Computing  
+- Backend API  
+- Cyber Security  
 
 ---
 
-## 🏆 Certifications
+## 🧩 Soft Skills / Keterampilan Non Teknis
+
+✅ Problem Solving / Pemecahan Masalah  
+✅ Time Management / Manajemen Waktu  
+✅ Teamwork / Kerja Tim  
+✅ Fast Learner / Cepat Belajar  
+✅ Adaptable / Mudah Beradaptasi  
+
+---
+
+## 🏆 Certifications / Sertifikasi
 
 - 🥇 Junior Network Administrator – DTS (2021)  
 - 🥇 Infrastruktur & Jaringan – BNSP (2021)  
-- 🥇 Pemrograman – LSP Unpam (2021)  
-- 🥇 Microsoft Office – Raharja (2018)
+- 🥇 Pemrograman – LSP Universitas Pamulang (2021)  
+- 🥇 Microsoft Office – Perguruan Tinggi Raharja (2018)
 
 ---
 
@@ -198,7 +223,7 @@ Barcode scanner app connected to Google Sheets.
 
 ---
 
-## 💡 Dev Quote
+## 💬 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -206,18 +231,17 @@ Barcode scanner app connected to Google Sheets.
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact Me / Hubungi Saya
 
 <p align="center">
   <a href="mailto:effendycndr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Kirim%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/effendy-candra-sasmoro/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Hubungi%20Saya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" />
 </p>
