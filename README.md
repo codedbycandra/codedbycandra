@@ -1,247 +1,131 @@
-<!-- ===================== HEADER ANIMATED ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- ================= PROJECTS SECTION ================= -->
+<h2 align="center" style="color:#00F5FF;">
+  🚀 Projects | Proyek
+</h2>
+
+<p align="center" style="color:white;">
+  Berikut adalah beberapa proyek yang pernah saya kerjakan /  
+  Here are some projects I have worked on
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Data+Analyst;Web+Developer;Network+Administrator;IoT+Enthusiast;Tech+Enthusiast+from+Indonesia" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codedbycandra&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="mailto:effendycndr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/effendy-candra-sasmoro/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/codedbycandra">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 👋 About Me / Tentang Saya
-
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-🇮🇩 **Bahasa Indonesia**
-
-Halo! Saya **Effendy Candra Sasmoro**, seorang yang memiliki minat besar di dunia teknologi, khususnya:
-
-- 📊 Analisis Data  
-- 🌐 Pengembangan Web  
-- 🛜 Jaringan Komputer  
-- 🤖 Internet of Things (IoT)  
-
-Saya senang belajar hal baru dan mencari solusi dari masalah menggunakan teknologi.
-
-🇬🇧 **English Version**
-
-Hi! I'm **Effendy Candra Sasmoro**, a tech enthusiast with a strong interest in:
-
-- 📊 Data Analysis  
-- 🌐 Web Development  
-- 🛜 Computer Networking  
-- 🤖 Internet of Things (IoT)  
-
-I enjoy learning new things and solving real-world problems using technology.
-
----
-
-## 🧠 Tech Stack / Teknologi
-
-### 🧾 Office & Reporting / Administrasi
-<p>
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
-</p>
-
-### 🌐 Web Development / Pengembangan Web
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,nodejs&theme=light" />
-</p>
-
-### 💻 Programming / Pemrograman
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js&theme=light" />
-</p>
-
-### 🗄 Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
-</p>
-
-### 🛜 Networking / Jaringan
-<p>
-  <img src="https://www.citypng.com/public/uploads/preview/cisco-square-blue-logo-icon-png-735811696612218gzoiadfplh.png" width="60"/>
-  <img src="https://www.clipartmax.com/png/full/113-1134288_cloud-hosted-router-mikrotik.png" width="70"/>
-</p>
-
-### 🤖 IoT / Internet of Things
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino&theme=light" />
-</p>
-
-### 🖥 Operating System / Sistem Operasi
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux&theme=light" />
-</p>
-
-✅ Instalasi Windows/Linux  
-✅ Troubleshooting Hardware/Software  
-
----
-
-## 🚀 Projects / Proyek
-
-<p align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🌱 IoT Plant Monitoring System
-🇮🇩 Sistem pintar untuk memantau kelembaban tanah, suhu, dan kelembaban udara.  
-🇬🇧 Smart system to monitor soil moisture, temperature, and humidity.
-
-**Tech:** Arduino • C++ • DHT Sensor • Soil Sensor
-
-</td>
-<td width="50%">
-
-### 📦 Web Inventory System
-🇮🇩 Sistem persediaan barang berbasis web dengan dashboard admin.  
-🇬🇧 Web-based inventory system with admin panel & reporting.
-
-**Tech:** PHP • MySQL • Bootstrap
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 Data Analysis Dashboard
-🇮🇩 Dashboard visualisasi data penjualan & stok.  
-🇬🇧 Sales and stock visualization dashboard.
-
-**Tech:** Python • Excel • MySQL • Chart.js
-
-</td>
-<td width="50%">
-
-### 📡 Network Simulation Project
-🇮🇩 Simulasi desain jaringan menggunakan MikroTik & Cisco.  
-🇬🇧 Network infrastructure design simulation.
-
-**Tech:** MikroTik • Cisco Packet Tracer • TCP/IP
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-### 📱 Android Plant Barcode Scanner
-🇮🇩 Aplikasi Android untuk scan barcode tanaman dan ambil harga dari Google Sheets.  
-🇬🇧 Android app to scan plant barcode and fetch price data from Google Sheets.
-
-**Tech:** Android Studio • Firebase • Google Sheets API
-
-</td>
-</tr>
-</table>
-</p>
-
----
-
-## 📚 Currently Learning / Sedang Dipelajari
-
-🇮🇩
-- Machine Learning
-- Cloud Computing
-- Backend API
-- Cyber Security
-
-🇬🇧
-- Machine Learning  
-- Cloud Computing  
-- Backend API  
-- Cyber Security  
-
----
-
-## 🧩 Soft Skills / Keterampilan Non Teknis
-
-✅ Problem Solving / Pemecahan Masalah  
-✅ Time Management / Manajemen Waktu  
-✅ Teamwork / Kerja Tim  
-✅ Fast Learner / Cepat Belajar  
-✅ Adaptable / Mudah Beradaptasi  
-
----
-
-## 🏆 Certifications / Sertifikasi
-
-- 🥇 Junior Network Administrator – DTS (2021)  
-- 🥇 Infrastruktur & Jaringan – BNSP (2021)  
-- 🥇 Pemrograman – LSP Universitas Pamulang (2021)  
-- 🥇 Microsoft Office – Perguruan Tinggi Raharja (2018)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbycandra&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbycandra&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codedbycandra&theme=tokyonight&margin-w=10" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/codedbycandra/codedbycandra/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 💬 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-## 📫 Contact Me / Hubungi Saya
-
-<p align="center">
-  <a href="mailto:effendycndr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Kirim%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/effendy-candra-sasmoro/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hubungi%20Saya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" />
-</p>
+<div align="center">
+
+<!-- PROJECT CARD 1 -->
+<div style="
+  background: rgba(0,0,0,0.5);
+  border: 1px solid #00F5FF;
+  border-radius: 16px;
+  padding: 20px;
+  margin: 15px;
+  width: 90%;
+  max-width: 800px;
+  box-shadow: 0 0 20px #00F5FF;
+">
+  <h3>🌱 IoT Plant Monitoring System</h3>
+  <p><b>ID:</b> Sistem monitoring tanaman untuk mengukur kelembaban tanah, suhu, dan kelembaban udara secara real-time.</p>
+  <p><b>EN:</b> Smart plant monitoring system to measure soil moisture, temperature, and humidity in real time.</p>
+
+  <img src="https://user-images.githubusercontent.com/0000000/iot-demo.gif" width="90%" style="border-radius:10px;"/>
+
+  <p>🛠 Tech Stack:</p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=arduino,cpp" />
+  </p>
+
+  <p>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+  </p>
+</div>
+
+<!-- PROJECT CARD 2 -->
+<div style="
+  background: rgba(0,0,0,0.5);
+  border: 1px solid #00F5FF;
+  border-radius: 16px;
+  padding: 20px;
+  margin: 15px;
+  width: 90%;
+  max-width: 800px;
+  box-shadow: 0 0 20px #00F5FF;
+">
+  <h3>📦 Web Inventory Management System</h3>
+  <p><b>ID:</b> Sistem inventaris berbasis web dengan fitur login, dashboard admin, dan laporan.</p>
+  <p><b>EN:</b> Web-based inventory system with authentication, admin dashboard, and reporting.</p>
+
+  <img src="https://user-images.githubusercontent.com/0000000/web-demo.gif" width="90%" style="border-radius:10px;"/>
+
+  <p>🛠 Tech Stack:</p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,php,mysql,bootstrap" />
+  </p>
+</div>
+
+<!-- PROJECT CARD 3 -->
+<div style="
+  background: rgba(0,0,0,0.5);
+  border: 1px solid #00F5FF;
+  border-radius: 16px;
+  padding: 20px;
+  margin: 15px;
+  width: 90%;
+  max-width: 800px;
+  box-shadow: 0 0 20px #00F5FF;
+">
+  <h3>📊 Data Analysis Dashboard</h3>
+  <p><b>ID:</b> Dashboard visualisasi data untuk analisis penjualan dan stok barang.</p>
+  <p><b>EN:</b> Data visualization dashboard for sales and stock analysis.</p>
+
+  <img src="https://user-images.githubusercontent.com/0000000/data-demo.gif" width="90%" style="border-radius:10px;"/>
+
+  <p>🛠 Tech Stack:</p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,mysql,js" />
+  </p>
+</div>
+
+<!-- PROJECT CARD 4 -->
+<div style="
+  background: rgba(0,0,0,0.5);
+  border: 1px solid #00F5FF;
+  border-radius: 16px;
+  padding: 20px;
+  margin: 15px;
+  width: 90%;
+  max-width: 800px;
+  box-shadow: 0 0 20px #00F5FF;
+">
+  <h3>📡 Network Infrastructure Simulation</h3>
+  <p><b>ID:</b> Simulasi desain dan konfigurasi jaringan menggunakan Mikrotik dan Cisco.</p>
+  <p><b>EN:</b> Network design and simulation using MikroTik and Cisco concepts.</p>
+
+  <img src="https://user-images.githubusercontent.com/0000000/network-demo.gif" width="90%" style="border-radius:10px;"/>
+
+  <p>🛠 Tech Stack:</p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+</div>
+
+<!-- PROJECT CARD 5 -->
+<div style="
+  background: rgba(0,0,0,0.5);
+  border: 1px solid #00F5FF;
+  border-radius: 16px;
+  padding: 20px;
+  margin: 15px;
+  width: 90%;
+  max-width: 800px;
+  box-shadow: 0 0 20px #00F5FF;
+">
+  <h3>📱 Android Plant Barcode Scanner (Prototype)</h3>
+  <p><b>ID:</b> Aplikasi Android untuk scan barcode tanaman dan mengambil harga dari Google Sheets.</p>
+  <p><b>EN:</b> Android app to scan plant barcodes and fetch price data from Google Sheets.</p>
+
+  <img src="https://user-images.githubusercontent.com/0000000/android-demo.gif" width="90%" style="border-radius:10px;"/>
+
+  <p>🛠 Tech Stack:</p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
+</div>
+
+</div>
+<!-- ================= END PROJECTS ================= -->
