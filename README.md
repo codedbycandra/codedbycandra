@@ -81,7 +81,7 @@ I enjoy learning new things and solving real-world problems using technology.
 
 ### 🛜 Networking / Jaringan
 <p>
-  <img src="https://www.citypng.com/public/uploads/preview/cisco-square-blue-logo-icon-png-735811696612218gzoiadfplh.png" width="60"/>
+  <img src="https://digitalsociety.id/wp-content/uploads/2020/12/Cisco-320x320.png" width="60"/>
   <img src="https://www.clipartmax.com/png/full/113-1134288_cloud-hosted-router-mikrotik.png" width="70"/>
 </p>
 
