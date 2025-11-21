@@ -76,7 +76,7 @@ I enjoy learning new things and solving real-world problems using technology.
 
 ### 🗄 Database / Basis Data
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme" />
 </p>
 
 ### 🛜 Networking / Jaringan
