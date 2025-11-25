@@ -90,7 +90,7 @@ I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data a
 
 ### 🧰 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,docker,gcloud&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode,docker,gcp,wordpress,&theme=light" />
 </p>
 
 ---
