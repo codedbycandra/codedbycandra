@@ -43,7 +43,7 @@ I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data a
 
 ---
 ## 🧠 Tech Stack / Teknologi
-🧾 Office & Reporting / Administrasi
+### 🧾 Office & Reporting / Administrasi
 <p>
   <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
@@ -52,7 +52,7 @@ I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data a
   <img src="https://img.icons8.com/color/48/google-sheets.png"/>
 </p>
 
-🌐 Web Development / Pengembangan Web
+### 🌐 Web Development / Pengembangan Web
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,nodejs&theme=light" />
 </p>
