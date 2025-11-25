@@ -33,25 +33,11 @@
 
 🇮🇩 **Bahasa Indonesia**
 
-Halo! Saya **Effendy Candra Sasmoro**, seorang yang memiliki minat besar di dunia teknologi, khususnya:
-
-- 📊 Analisis Data  
-- 🌐 Pengembangan Web  
-- 🛰️ Jaringan Komputer  
-- 🤖 Internet of Things (IoT)  
-
-Saya senang belajar hal baru dan mencari solusi dari masalah menggunakan teknologi.
+Halo World! Saya Effendy Candra Sasmoro, seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, pengembangan web, jaringan komputer, dan Internet of Things (IoT). Saya senang mempelajari hal-hal baru serta mencari solusi atas berbagai masalah dengan memanfaatkan teknologi.
 
 🇬🇧 **English Version**
 
-Hi! I'm **Effendy Candra Sasmoro**, a tech enthusiast with a strong interest in:
-
-- 📊 Data Analysis  
-- 🌐 Web Development  
-- 🛰️ Computer Networking  
-- 🤖 Internet of Things (IoT)  
-
-I enjoy learning new things and solving real-world problems using technology.
+Helo World! I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data analysis, web development, computer networking, and Internet of Things (IoT). I enjoy learning new things and solving real-world problems using technology.
 
 ---
 
