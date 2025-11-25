@@ -45,91 +45,58 @@ I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data a
 
 ## 🧠 Tech Stack / Teknologi
 
+## 🧠 Tech Stack / Teknologi
+
 ### 🧾 Office & Reporting / Administrasi
-<table width="100%">
-<tr>
-  <td align="justify">
-    <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
-    <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-    <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
-    <img src="https://img.icons8.com/color/48/google-docs.png"/>
-    <img src="https://img.icons8.com/color/48/google-sheets.png"/>
-  </td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
+  <img src="https://img.icons8.com/color/48/google-docs.png"/>
+  <img src="https://img.icons8.com/color/48/google-sheets.png"/>
+</p>
 
 ### 🌐 Web Development / Pengembangan Web
-<table width="100%">
-<tr>
-  <td align="justify">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,nodejs&theme=light" />
-  </td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,nodejs&theme=light"/>
+</p>
 
 ### 💻 Programming / Pemrograman
-<table width="100%">
-<tr>
-  <td align="justify">
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,java&theme=light" />
-  </td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java&theme=light"/>
+</p>
 
 ### 🗄 Database / Basis Data
-<table width="100%">
-<tr>
-  <td align="justify">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" />
-  </td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light"/>
+</p>
 
 ### 🛜 Networking / Jaringan
-<table width="100%">
-<tr>
-  <td align="justify">
-    <img src="https://digitalsociety.id/wp-content/uploads/2020/12/Cisco-320x320.png" width="60"/>
-    <img src="https://logos-world.net/wp-content/uploads/2023/02/MikroTik-Logo.png" width="70"/>
-  </td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://digitalsociety.id/wp-content/uploads/2020/12/Cisco-320x320.png" width="60"/>
+  <img src="https://logos-world.net/wp-content/uploads/2023/02/MikroTik-Logo.png" width="70"/>
+</p>
 
 ### 🤖 IoT / Internet of Things
-<table width="100%">
-<tr>
-  <td align="justify">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light" />
-  </td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light"/>
+</p>
 
 ### 🖥 Operating System / Sistem Operasi
-<table width="100%">
-<tr>
-  <td align="justify">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme=light" />
-  </td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme=light"/>
+</p>
 
 ### 📱 Mobile Development
-<table width="100%">
-<tr>
-  <td align="justify">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=light" />
-  </td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=light"/>
+</p>
 
 ### 🧰 Tools & Others
-<table width="100%">
-<tr>
-  <td align="justify">
-    <img src="https://skillicons.dev/icons?i=vscode,docker,gcp,wordpress&theme=light" />
-  </td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,docker,gcp,wordpress&theme=light"/>
+</p>
+
 
 ---
 
