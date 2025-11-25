@@ -43,11 +43,7 @@ I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data a
 
 ---
 ## 🧠 Tech Stack / Teknologi
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql,git,github,vscode,linux&theme=light" />
-</p>
-
-### 🧾 Office & Reporting / Administrasi
+🧾 Office & Reporting / Administrasi
 <p>
   <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
@@ -56,26 +52,25 @@ I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data a
   <img src="https://img.icons8.com/color/48/google-sheets.png"/>
 </p>
 
-### 🌐 Web Development / Pengembangan Web
+🌐 Web Development / Pengembangan Web
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,laravel,react,nodejs,express&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,nodejs&theme=light" />
 </p>
 
 ### 💻 Programming / Pemrograman
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,kotlin&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java&theme=light" />
 </p>
 
 ### 🗄 Database / Basis Data
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" />
 </p>
 
 ### 🛜 Networking / Jaringan
 <p>
   <img src="https://digitalsociety.id/wp-content/uploads/2020/12/Cisco-320x320.png" width="60"/>
   <img src="https://logos-world.net/wp-content/uploads/2023/02/MikroTik-Logo.png" width="70"/>
-  <img src="https://skillicons.dev/icons?i=nginx&theme=light" />
 </p>
 
 ### 🤖 IoT / Internet of Things
@@ -90,12 +85,12 @@ I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data a
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart&theme=light" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=light" />
 </p>
 
 ### 🧰 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,docker,gitlab,gcloud&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode,docker,gcloud&theme=light" />
 </p>
 
 ---
