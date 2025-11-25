@@ -41,8 +41,16 @@ Saya Effendy Candra Sasmoro, seorang yang memiliki minat besar di dunia teknolog
 print("Hello, World!")
 I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data analysis, web development, computer networking, and Internet of Things (IoT). I enjoy learning new things and solving real-world problems using technology.
 
----
 ## 🧠 Tech Stack / Teknologi
+
+<style>
+  p {
+    text-align: justify;
+  }
+</style>
+
+---
+
 ### 🧾 Office & Reporting / Administrasi
 <p>
   <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
@@ -90,7 +98,7 @@ I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data a
 
 ### 🧰 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,docker,gcp,wordpress,&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode,docker,gcp,wordpress&theme=light" />
 </p>
 
 ---
