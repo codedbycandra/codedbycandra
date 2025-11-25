@@ -41,65 +41,77 @@ Saya Effendy Candra Sasmoro, seorang yang memiliki minat besar di dunia teknolog
 print("Hello, World!")
 I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data analysis, web development, computer networking, and Internet of Things (IoT). I enjoy learning new things and solving real-world problems using technology.
 
+---
+
+## 🧠 Tech Stack / Teknologi
+
 ## 🧠 Tech Stack / Teknologi
 
 <style>
-  p {
+  .icon-row {
     text-align: justify;
+  }
+
+  .icon-row::after {
+    content: "";
+    display: inline-block;
+    width: 100%;
+  }
+
+  .icon-row img {
+    display: inline-block;
   }
 </style>
 
----
-
 ### 🧾 Office & Reporting / Administrasi
-<p>
+<div class="icon-row">
   <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
   <img src="https://img.icons8.com/color/48/google-docs.png"/>
   <img src="https://img.icons8.com/color/48/google-sheets.png"/>
-</p>
+</div>
 
 ### 🌐 Web Development / Pengembangan Web
-<p>
+<div class="icon-row">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,nodejs&theme=light" />
-</p>
+</div>
 
 ### 💻 Programming / Pemrograman
-<p>
+<div class="icon-row">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,java&theme=light" />
-</p>
+</div>
 
 ### 🗄 Database / Basis Data
-<p>
+<div class="icon-row">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" />
-</p>
+</div>
 
 ### 🛜 Networking / Jaringan
-<p>
+<div class="icon-row">
   <img src="https://digitalsociety.id/wp-content/uploads/2020/12/Cisco-320x320.png" width="60"/>
   <img src="https://logos-world.net/wp-content/uploads/2023/02/MikroTik-Logo.png" width="70"/>
-</p>
+</div>
 
 ### 🤖 IoT / Internet of Things
-<p>
+<div class="icon-row">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light" />
-</p>
+</div>
 
 ### 🖥 Operating System / Sistem Operasi
-<p>
+<div class="icon-row">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme=light" />
-</p>
+</div>
 
 ### 📱 Mobile Development
-<p>
+<div class="icon-row">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=light" />
-</p>
+</div>
 
 ### 🧰 Tools & Others
-<p>
+<div class="icon-row">
   <img src="https://skillicons.dev/icons?i=vscode,docker,gcp,wordpress&theme=light" />
-</p>
+</div>
 
 ---
 
