@@ -71,7 +71,8 @@ Saya seorang yang memiliki minat besar di dunia teknologi, khususnya analisis da
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,java&theme"/>
 </p>
 </td>
-
+</table>
+<table>
 <td width="50%">
 
 **🗄 Database / Basis Data**
