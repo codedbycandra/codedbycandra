@@ -53,7 +53,7 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 **💻 Web Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,jss&theme"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap&theme"/>
 </p>
 
 **💻 Software Engineer**
@@ -76,23 +76,23 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
   <img src="https://skillicons.dev/icons?i=androidstudio,java,kotin,&theme"/>
 </p>
 
-**🗄 Database / Basis Data**
+**🗄 Database**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql&theme"/>
 </p>
 
-**📡 Network Engineer / Administrator Jaringan**
+**📡 Network Engineer**
 <p align="left">
   <img src="https://digitalsociety.id/wp-content/uploads/2020/12/Cisco-320x320.png" width="60"/>
   <img src="https://logos-world.net/wp-content/uploads/2023/02/MikroTik-Logo.png" width="70"/>
 </p>
 
-**🤖 IoT / Internet of Things**
+**🤖 Internet of Things**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme"/>
 </p>
 
-**🖥 Operating System / Sistem Operasi**
+**🖥 Operating System**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme"/>
 </p>
