@@ -45,7 +45,7 @@ I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data a
 
 ## 🧠 Skills / Kemampuan 
 
-### 🧾 Office & Reporting / Administrasi
+**🧾 Office & Reporting / Administrasi**
 <p align="left">
   <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
@@ -54,47 +54,46 @@ I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data a
   <img src="https://img.icons8.com/color/48/google-sheets.png"/>
 </p>
 
-### 🌐 Web Development / Pengembangan Web
+**🌐 Web Development / Pengembangan Web**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,nodejs&theme=light"/>
 </p>
 
-### 💻 Programming / Pemrograman
+**💻 Programming / Pemrograman**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,java&theme=light"/>
 </p>
 
-### 🗄 Database / Basis Data
+**🗄 Database / Basis Data**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light"/>
 </p>
 
-### 🛜 Networking / Jaringan
+**🛜 Networking / Jaringan**
 <p align="left">
   <img src="https://digitalsociety.id/wp-content/uploads/2020/12/Cisco-320x320.png" width="60"/>
   <img src="https://logos-world.net/wp-content/uploads/2023/02/MikroTik-Logo.png" width="70"/>
 </p>
 
-### 🤖 IoT / Internet of Things
+**🤖 IoT / Internet of Things**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light"/>
 </p>
 
-### 🖥 Operating System / Sistem Operasi
+**🖥 Operating System / Sistem Operasi**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme=light"/>
 </p>
 
-### 📱 Mobile Development
+**📱 Mobile Development**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=light"/>
 </p>
 
-### 🧰 Tools & Others
+**🧰 Tools & Others**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,docker,gcp,wordpress&theme=light"/>
 </p>
-
 
 ---
 
