@@ -27,7 +27,7 @@
 
 ---
 
-## 👋 About Me / Tentang Saya
+## 👋 Tentang Saya (About Me)
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -40,7 +40,7 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 ---
 
-## 🧠 Skills / Kemampuan 
+## 🧠 Kemampuan Teknis (Technical Skills) 
 
 **🧾 Office & Reporting / Administrasi**
 <p align="left">
@@ -56,7 +56,7 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
   <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,nodejs&theme"/>
 </p>
 
-**💻 Programming / Pemrograman**
+**💻 Software Engineer / Pengembangan Aplikasi**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,java&theme"/>
 </p>
@@ -66,7 +66,7 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
   <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme"/>
 </p>
 
-**🛜 Networking / Jaringan**
+**📡 Network Engineer / Administrator Jaringan**
 <p align="left">
   <img src="https://digitalsociety.id/wp-content/uploads/2020/12/Cisco-320x320.png" width="60"/>
   <img src="https://logos-world.net/wp-content/uploads/2023/02/MikroTik-Logo.png" width="70"/>
@@ -82,14 +82,9 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme"/>
 </p>
 
-**📱 Mobile Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio&theme"/>
-</p>
-
 **🧰 Tools & Others**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,gcp,wordpress&theme"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,gcp,wordpress&theme"/>
 </p>
 
 ---
