@@ -106,11 +106,11 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 </td>
 <td width="50%">
 
-**📦 Web Inventory System**
-🇮🇩 Sistem persediaan barang berbasis web dengan dashboard admin.  
->🇬🇧 Web-based inventory system with admin panel & reporting.
+**📦 Pengembangan Sistem Informasi Perpustakaan Sekolah Berbasis Web pada SMK Yapipa Serpong Utara**
+🇮🇩 Sistem informasi perpustakaan berbasis web (PHP + MySQL) untuk sekolah — mengelola data buku, peminjaman & pengembalian secara digital, menggantikan sistem manual.
+>🇬🇧 🇬🇧 **Web-based Library Information System** (PHP & MySQL) for schools — manages book data, borrowing, and returns digitally to replace the manual system.
 
-**Tech:** PHP • MySQL • Bootstrap
+**Tech:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, XAMPP/Laragon, phpMyAdmin, Visual Studio Code
 
 </td>
 </tr>
