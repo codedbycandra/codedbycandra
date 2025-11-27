@@ -101,18 +101,18 @@ Saya seorang yang memiliki minat besar di dunia teknologi, khususnya analisis da
 <tr>
 <td width="50%">
 
-### 🌱 IoT Plant Monitoring System
+**🌱 IoT Plant Monitoring System**
 🇮🇩 Sistem pintar untuk memantau kelembaban tanah, suhu, dan kelembaban udara.  
-🇬🇧 Smart system to monitor soil moisture, temperature, and humidity.
+>🇬🇧 Smart system to monitor soil moisture, temperature, and humidity.
 
 **Tech:** Arduino • C++ • DHT Sensor • Soil Sensor
 
 </td>
 <td width="50%">
 
-### 📦 Web Inventory System
+**📦 Web Inventory System**
 🇮🇩 Sistem persediaan barang berbasis web dengan dashboard admin.  
-🇬🇧 Web-based inventory system with admin panel & reporting.
+>🇬🇧 Web-based inventory system with admin panel & reporting.
 
 **Tech:** PHP • MySQL • Bootstrap
 
@@ -122,18 +122,18 @@ Saya seorang yang memiliki minat besar di dunia teknologi, khususnya analisis da
 <tr>
 <td width="50%">
 
-### 📊 Data Analysis Dashboard
+**📊 Data Analysis Dashboard**
 🇮🇩 Dashboard visualisasi data penjualan & stok.  
-🇬🇧 Sales and stock visualization dashboard.
+>🇬🇧 Sales and stock visualization dashboard.
 
 **Tech:** Python • Excel • MySQL • Chart.js
 
 </td>
 <td width="50%">
 
-### 📡 Network Simulation Project
+**📡 Network Simulation Project**
 🇮🇩 Simulasi desain jaringan menggunakan MikroTik & Cisco.  
-🇬🇧 Network infrastructure design simulation.
+>🇬🇧 Network infrastructure design simulation.
 
 **Tech:** MikroTik • Cisco Packet Tracer • TCP/IP
 
@@ -143,9 +143,9 @@ Saya seorang yang memiliki minat besar di dunia teknologi, khususnya analisis da
 <tr>
 <td colspan="2">
 
-### 📱 Android Plant Barcode Scanner
+**📱 Android Plant Barcode Scanner**
 🇮🇩 Aplikasi Android untuk scan barcode tanaman dan ambil harga dari Google Sheets.  
-🇬🇧 Android app to scan plant barcode and fetch price data from Google Sheets.
+>🇬🇧 Android app to scan plant barcode and fetch price data from Google Sheets.
 
 **Tech:** Android Studio • Firebase • Google Sheets API
 
