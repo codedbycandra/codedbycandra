@@ -36,6 +36,7 @@ print("Hello, World!")
 Saya Effendy Candra Sasmoro, seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, pengembangan web, jaringan komputer, dan Internet of Things (IoT). Saya senang mempelajari hal-hal baru serta mencari solusi atas berbagai masalah dengan memanfaatkan teknologi.
 
 print("Hello, World!")
+<br>
 I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data analysis, web development, computer networking, and Internet of Things (IoT). I enjoy learning new things and solving real-world problems using technology.
 
 ---
@@ -53,17 +54,17 @@ I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data a
 
 **🌐 Web Development / Pengembangan Web**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,nodejs&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,nodejs&theme"/>
 </p>
 
 **💻 Programming / Pemrograman**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java&theme"/>
 </p>
 
 **🗄 Database / Basis Data**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme"/>
 </p>
 
 **🛜 Networking / Jaringan**
@@ -74,22 +75,22 @@ I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data a
 
 **🤖 IoT / Internet of Things**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme"/>
 </p>
 
 **🖥 Operating System / Sistem Operasi**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme"/>
 </p>
 
 **📱 Mobile Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme"/>
 </p>
 
 **🧰 Tools & Others**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,gcp,wordpress&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=vscode,docker,gcp,wordpress&theme"/>
 </p>
 
 ---
