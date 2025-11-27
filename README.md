@@ -43,9 +43,7 @@ I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data a
 
 ---
 
-## 🧠 Tech Stack / Teknologi
-
-## 🧠 Tech Stack / Teknologi
+## 🧠 Skills / Kemampuan 
 
 ### 🧾 Office & Reporting / Administrasi
 <p align="left">
