@@ -63,7 +63,7 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 **🗄 Database / Basis Data**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme"/>
+  <img src="https://skillicons.dev/icons?i=mysql,xampp&theme"/>
 </p>
 
 **📡 Network Engineer / Administrator Jaringan**
