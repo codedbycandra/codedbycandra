@@ -89,18 +89,41 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 ---
 
-## 🚀 Projects / Proyek
+## 🚀 Proyek (Projects)
 
 <p align="center">
 <table>
 <tr>
 <td width="50%">
 
-**🌱 IoT Plant Monitoring System**
-🇮🇩 Sistem pintar untuk memantau kelembaban tanah, suhu, dan kelembaban udara.  
->🇬🇧 Smart system to monitor soil moisture, temperature, and humidity.
+# 🌱 Smart Automatic Irrigation System for Potted Fruit Plants (Tabulampot)
 
-**Tech:** Arduino • C++ • DHT Sensor • Soil Sensor
+🇮🇩 Sistem penyiraman otomatis tanaman buah dalam pot berbasis IoT yang terhubung dengan web monitoring untuk memantau kelembaban tanah secara real-time.
+
+🇬🇧 Smart IoT-based irrigation system connected to a web-based monitoring platform to track real-time soil moisture levels.
+
+## 📌 Project Description
+
+This project implements an automatic irrigation system using a WiFi-enabled microcontroller to monitor and control plant watering. The system reads soil moisture values using a soil moisture sensor, sends the data to a web server, and stores it in a database. Users can monitor plant conditions through a web interface, and the system automatically activates watering when the soil moisture falls below a defined threshold.
+
+## 🛠️ Tools & Technologies
+
+**Hardware**
+- Wemos D1 (ESP8266)
+- Soil Moisture Sensor
+- Relay Module
+- Mini Water Pump
+- Power Supply
+
+**Software**
+- Arduino IDE
+- C / C++
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- XAMPP / Web Hosting
 
 </td>
 <td width="50%">
