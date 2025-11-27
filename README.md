@@ -96,8 +96,7 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 <tr>
 <td width="50%">
 
-# 🌱 Smart Automatic Irrigation System for Potted Fruit Plants (Tabulampot)
-
+**🌱 Smart Automatic Irrigation System for Potted Fruit Plants (Tabulampot)**
 🇮🇩 Sistem penyiraman otomatis tanaman buah dalam pot berbasis IoT yang terhubung dengan web monitoring untuk memantau kelembaban tanah secara real-time.
 >🇬🇧 Smart IoT-based irrigation system connected to a web-based monitoring platform to track real-time soil moisture levels.
 
