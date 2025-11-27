@@ -53,17 +53,17 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 **💻 Web Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap&theme"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,laravel&theme"/>
 </p>
 
-**💻 Software Engineer**
+**💻 Software Engineering**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,js&theme"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,java,js&theme"/>
 </p>
 
 **💻 Cyber Security**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,cpp&theme"/>
+  <img src="https://skillicons.dev/icons?i=linux,python,wireshark,nmap,metasploit&theme"/>
 </p>
 
 **💻 Game Development**
@@ -73,18 +73,17 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 **💻 App Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotin,&theme"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter,reactnative&theme"/>
 </p>
 
 **🗄 Database**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql&theme"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme"/>
 </p>
 
-**📡 Network Engineer**
+**📡 Network Engineering**
 <p align="left">
-  <img src="https://digitalsociety.id/wp-content/uploads/2020/12/Cisco-320x320.png" width="60"/>
-  <img src="https://logos-world.net/wp-content/uploads/2023/02/MikroTik-Logo.png" width="70"/>
+  <img src="https://skillicons.dev/icons?i=cisco,mikrotik&theme"/>
 </p>
 
 **🤖 Internet of Things**
@@ -92,14 +91,14 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme"/>
 </p>
 
-**🖥 Operating System**
+**🖥 Operating Systems**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme"/>
 </p>
 
 **🧰 Tools & Others**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,gcp,wordpress&theme"/>
+  <img src="https://skillicons.dev/icons?i=vscode,gcp,wordpress,git,docker,postman,jira&theme"/>
 </p>
 
 ---
