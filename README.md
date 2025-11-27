@@ -33,7 +33,7 @@
 
 print("Hello, World!")
 <br>
-Saya seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, pengembangan web, jaringan komputer, dan Internet of Things (IoT). Saya senang mempelajari hal-hal baru serta mencari solusi atas berbagai masalah dengan memanfaatkan teknologi.
+Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, pengembangan web, jaringan komputer, dan Internet of Things (IoT). Saya senang mempelajari hal-hal baru serta mencari solusi atas berbagai masalah dengan memanfaatkan teknologi.
 
 >print("Hello, World!")<br>
 >I’m a tech enthusiast with a strong interest in data analysis, web development, computer networking, and Internet of Things (IoT). I enjoy learning new things and solving real-world problems using technology.
@@ -41,11 +41,7 @@ Saya seorang yang memiliki minat besar di dunia teknologi, khususnya analisis da
 ---
 
 ## 🧠 Skills / Kemampuan 
-<p align="center">
-<table>
-<tr>
-<td width="50%">
-  
+
 **🧾 Office & Reporting / Administrasi**
 <p align="left">
   <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
@@ -54,75 +50,48 @@ Saya seorang yang memiliki minat besar di dunia teknologi, khususnya analisis da
   <img src="https://img.icons8.com/color/48/google-docs.png"/>
   <img src="https://img.icons8.com/color/48/google-sheets.png"/>
 </p>
-</td>
-  
-<td width="50%">
-  
+
 **🌐 Web Development / Pengembangan Web**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,nodejs&theme"/>
 </p>
-</td>
 
-<td width="50%">
-  
 **💻 Programming / Pemrograman**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,java&theme"/>
 </p>
-</td>
-</table>
-<table>
-<td width="50%">
 
 **🗄 Database / Basis Data**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme"/>
 </p>
-</td>
-
-<td width="50%">
 
 **🛜 Networking / Jaringan**
 <p align="left">
   <img src="https://digitalsociety.id/wp-content/uploads/2020/12/Cisco-320x320.png" width="60"/>
   <img src="https://logos-world.net/wp-content/uploads/2023/02/MikroTik-Logo.png" width="70"/>
 </p>
-</td>
-
-<td width="50%">
 
 **🤖 IoT / Internet of Things**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme"/>
 </p>
-</td>
 
-<td width="50%">
-  
 **🖥 Operating System / Sistem Operasi**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme"/>
 </p>
-</td>
 
-<td width="50%">
-  
 **📱 Mobile Development**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio&theme"/>
 </p>
-</td>
-
-<td width="50%">
 
 **🧰 Tools & Others**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,docker,gcp,wordpress&theme"/>
 </p>
-</td>
-<table>
-</tr></table></p>
+
 ---
 
 ## 🚀 Projects / Proyek
