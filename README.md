@@ -35,7 +35,7 @@ print("Hello, World!")
 <br>
 Saya Effendy Candra Sasmoro, seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, pengembangan web, jaringan komputer, dan Internet of Things (IoT). Saya senang mempelajari hal-hal baru serta mencari solusi atas berbagai masalah dengan memanfaatkan teknologi.
 
->print("Hello, World!")
+>print("Hello, World!")<br>
 >I’m Effendy Candra Sasmoro, a tech enthusiast with a strong interest in data analysis, web development, computer networking, and Internet of Things (IoT). I enjoy learning new things and solving real-world problems using technology.
 
 ---
