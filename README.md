@@ -51,14 +51,29 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
   <img src="https://img.icons8.com/color/48/google-sheets.png"/>
 </p>
 
-**🌐 Web Development / Pengembangan Web**
+**💻 Web Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,nodejs&theme"/>
+  <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,js,nodejs&theme"/>
 </p>
 
-**💻 Software Engineer / Pengembangan Aplikasi**
+**💻 Software Engineer**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java&theme"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,js&theme"/>
+</p>
+
+**💻 Cyber Security**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,python,cpp&theme"/>
+</p>
+
+**💻 Game Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity&theme"/>
+</p>
+
+**💻 App Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotin,&theme"/>
 </p>
 
 **🗄 Database / Basis Data**
@@ -84,7 +99,7 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 **🧰 Tools & Others**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,gcp,wordpress&theme"/>
+  <img src="https://skillicons.dev/icons?i=vscode,gcp,wordpress&theme"/>
 </p>
 
 ---
