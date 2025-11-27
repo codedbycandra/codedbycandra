@@ -96,7 +96,7 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 <tr>
 <td width="50%">
 
-**🌱 Smart Automatic Irrigation System for Potted Fruit Plants (Tabulampot)**
+**🌱 Smart Automatic Irrigation System for Potted Fruit Plants (Tabulampot)** <br>
 🇮🇩 Sistem penyiraman otomatis tanaman buah dalam pot berbasis IoT yang terhubung dengan web monitoring untuk memantau kelembaban tanah secara real-time.
 >🇬🇧 Smart IoT-based irrigation system connected to a web-based monitoring platform to track real-time soil moisture levels.
 
@@ -105,7 +105,7 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 </td>
 <td width="50%">
 
-**📦 Pengembangan Sistem Informasi Perpustakaan Sekolah Berbasis Web pada SMK Yapipa Serpong Utara**
+**📦 Pengembangan Sistem Informasi Perpustakaan Sekolah Berbasis Web pada SMK Yapipa Serpong Utara** <br>
 🇮🇩 Sistem informasi perpustakaan berbasis web (PHP + MySQL) untuk sekolah — mengelola data buku, peminjaman & pengembalian secara digital, menggantikan sistem manual.
 >🇬🇧 🇬🇧 **Web-based Library Information System** (PHP & MySQL) for schools — manages book data, borrowing, and returns digitally to replace the manual system.
 
