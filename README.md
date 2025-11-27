@@ -84,7 +84,7 @@ Saya seorang yang memiliki minat besar di dunia teknologi, khususnya analisis da
 
 **📱 Mobile Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme"/>
 </p>
 
 **🧰 Tools & Others**
@@ -164,11 +164,11 @@ Saya seorang yang memiliki minat besar di dunia teknologi, khususnya analisis da
 - Backend API
 - Cyber Security
 
-🇬🇧
-- Machine Learning  
-- Cloud Computing  
-- Backend API  
-- Cyber Security  
+>🇬🇧
+>- Machine Learning  
+>- Cloud Computing  
+>- Backend API  
+>- Cyber Security  
 
 ---
 
