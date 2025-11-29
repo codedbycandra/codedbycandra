@@ -105,19 +105,11 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 ## 🚀 Proyek (Projects)
 
-<p align="center">
-<table>
-<tr>
-<td width="50%">
-
 **🌱 Perancangan Sistem Pengairan Otomatis Pada Media Tanaman Buah Dalam Pot (Tabulampot) Berbasis Internet of Things** <br>
 🇮🇩 Sistem penyiraman otomatis tanaman buah dalam pot berbasis IoT yang terhubung dengan web monitoring untuk memantau kelembaban tanah secara real-time.
 >🇬🇧 Smart IoT-based irrigation system connected to a web-based monitoring platform to track real-time soil moisture levels.
 
 **Tech:** Wemos D1 (ESP8266), Soil Moisture Sensor, Relay Double Module, Water Pump, Arduino IDE, C / C++, PHP, MySQL, HTML, CSS, JavaScript, XAMPP, Web Hosting
-
-</td>
-<td width="50%">
 
 **📦 Pengembangan Sistem Informasi Perpustakaan Sekolah Berbasis Web pada SMK Yapipa Serpong Utara** <br>
 🇮🇩 Sistem informasi perpustakaan berbasis web (PHP + MySQL) untuk sekolah — mengelola data buku, peminjaman & pengembalian secara digital, menggantikan sistem manual.
@@ -125,20 +117,11 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 **Tech:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, XAMPP/Laragon, phpMyAdmin, Visual Studio Code
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 **📊 Data Analysis Dashboard**
 🇮🇩 Dashboard visualisasi data penjualan & stok.  
 >🇬🇧 Sales and stock visualization dashboard.
 
 **Tech:** Python • Excel • MySQL • Chart.js
-
-</td>
-<td width="50%">
 
 **📡 Network Simulation Project**
 🇮🇩 Simulasi desain jaringan menggunakan MikroTik & Cisco.  
@@ -146,22 +129,11 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 **Tech:** MikroTik • Cisco Packet Tracer • TCP/IP
 
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
 **📱 Android Plant Barcode Scanner**
 🇮🇩 Aplikasi Android untuk scan barcode tanaman dan ambil harga dari Google Sheets.  
 >🇬🇧 Android app to scan plant barcode and fetch price data from Google Sheets.
 
 **Tech:** Android Studio • Firebase • Google Sheets API
-
-</td>
-</tr>
-</table>
-</p>
 
 ---
 
