@@ -68,8 +68,10 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 **📡 Network Engineering**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cisco,mikrotik&theme"/>
+  <img src="https://iconduck.com/icons/1793/cisco.svg" alt="Cisco logo" width="32" />
+  <img src="https://logo.svgcdn.com/simple-icons/mikrotik-dark.svg" alt="MikroTik logo" width="32" />
 </p>
+
 
 **🤖 Internet of Things**
 <p align="left">
