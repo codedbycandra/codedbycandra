@@ -53,7 +53,7 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 **💻 Web Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs&theme"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,nodejs&theme"/>
 </p>
 
 **💻 Software Engineering**
