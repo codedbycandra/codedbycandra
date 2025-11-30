@@ -83,7 +83,7 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 **🧰 Tools & Others**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,gcp,wordpress,git,docker,postman,jira&theme"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,gcp,wordpress&theme"/>
 </p>
 
 ---
