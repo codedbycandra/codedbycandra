@@ -61,24 +61,9 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js&theme"/>
 </p>
 
-**💻 Cyber Security**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,wireshark,nmap,metasploit&theme"/>
-</p>
-
-**💻 Game Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity&theme"/>
-</p>
-
-**💻 App Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter,reactnative&theme"/>
-</p>
-
 **🗄 Database**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme"/>
 </p>
 
 **📡 Network Engineering**
@@ -98,7 +83,7 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 **🧰 Tools & Others**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,gcp,wordpress,git,docker,postman,jira&theme"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,gcp,wordpress,git,docker,postman,jira&theme"/>
 </p>
 
 ---
