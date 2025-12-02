@@ -51,20 +51,21 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
   <img src="https://img.icons8.com/color/48/google-sheets.png"/>
 </p>
 
-**💻 Web Development**
+**👨‍💻 Web Development**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,nodejs&theme"/>
 </p>
 
-**💻 Software Engineering**
+**👨‍💻 Software Engineering**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js&theme"/>
 </p>
 
-**🗄 Database**
+**👨‍💻 Cyber Security**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql&theme"/>
+  <img src="https://skillicons.dev/icons?i=kali,bash,powershell,docker&theme"/>
 </p>
+
 
 **📡 Network Engineering**
 <p align="left">
@@ -75,6 +76,11 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 **🤖 Internet of Things**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme"/>
+</p>
+
+**🗄 Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql&theme"/>
 </p>
 
 **🖥 Operating Systems**
