@@ -69,7 +69,7 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 **📡 Network Engineering**
 <p align="left">
   <img src="https://iconduck.com/icons/1793/cisco.svg" alt="Cisco logo" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mikrotik.png" alt="MikroTik logo" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mikrotik.png" alt="MikroTik logo" width="60" />
 </p>
 
 **🤖 Internet of Things**
