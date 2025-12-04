@@ -97,59 +97,27 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 ## 🚀 Sertifikasi dan Project
 
-**📄 Junior Network Administrator – Badan Nasional Sertifikasi Profesi (BNSP)** <br>
-Skema ini dirancang untuk memastikan kompetensi teknis dalam bidang Network & Infrastructure, khususnya pada pengelolaan jaringan komputer di lingkungan perusahaan.
-Ruang lingkup kompetensi mencakup:
-- Instalasi dan konfigurasi perangkat jaringan (router, switch, access point)  
-- Pengelolaan dan pemeliharaan infrastruktur jaringan  
-- Monitoring performa jaringan serta identifikasi dan penyelesaian gangguan  
-- Penerapan standar keamanan dasar pada sistem jaringan  
-- Dokumentasi topologi dan konfigurasi jaringan <br>
-Sertifikasi ini menjadi bukti kemampuan profesional dalam mengelola jaringan perusahaan sesuai standar industri dan best practice.
-Mencakup kompetensi instalasi, konfigurasi, dan pemeliharaan jaringan komputer serta troubleshooting perangkat jaringan.
+**📄 Junior Network Administrator – Badan Nasional Sertifikasi Profesi (BNSP)**  
+Sertifikasi ini merupakan pengakuan resmi terhadap kompetensi saya dalam mengelola jaringan komputer sesuai standar SKKNI Jaringan Komputer (Permenaker No. 321/2016) dan Okupasi Nasional TIK. Sertifikasi ini mencakup kemampuan instalasi serta konfigurasi perangkat jaringan seperti router, switch, dan access point, pengaturan IP addressing dan VLAN, implementasi routing dasar, monitoring performa jaringan, troubleshooting gangguan, hingga dokumentasi konfigurasi dan topologi. Penguasaan terhadap kompetensi tersebut memastikan saya mampu menangani kebutuhan administrasi jaringan perusahaan secara profesional, terstruktur, dan sesuai best practice industri.
+
+**Tech:** Cisco Packet Tracer
 
 **🌱 Perancangan Sistem Pengairan Otomatis Pada Media Tanam Berbasis Internet of Things**<br>
-🇮🇩 Sistem penyiraman otomatis tanaman buah dalam pot berbasis IoT yang terhubung dengan web monitoring untuk memantau kelembaban tanah secara real-time.
+Sistem penyiraman otomatis tanaman buah dalam pot berbasis IoT yang terhubung dengan web monitoring untuk memantau kelembaban tanah secara real-time.
 
 **Tech:** Wemos D1 (ESP8266), Soil Moisture Sensor, Relay Double Module, Water Pump, Arduino IDE, C / C++, PHP, MySQL, HTML, CSS, JavaScript, XAMPP, Web Hosting
 
-**📦 Pengembangan Sistem Informasi Perpustakaan Sekolah Berbasis Web pada Yayasan Pendidikan Islam Pakualam** <br>
-🇮🇩 Sistem informasi perpustakaan berbasis web (PHP + MySQL) untuk sekolah — mengelola data buku, peminjaman & pengembalian secara digital, menggantikan sistem manual.
+**📦 Pengembangan Sistem Informasi Perpustakaan Sekolah Berbasis Web pada Yayasan Pendidikan** <br>
+Sistem informasi perpustakaan berbasis web (PHP + MySQL) untuk sekolah — mengelola data buku, peminjaman & pengembalian secara digital.
 
 **Tech:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, XAMPP/Laragon, phpMyAdmin, Visual Studio Code
-
-**📊 Data Analysis Dashboard**
-🇮🇩 Dashboard visualisasi data penjualan & stok.  
-
-**Tech:** Python • Excel • MySQL
-
-**📡 Network Simulation Project**
-🇮🇩 Simulasi desain jaringan menggunakan MikroTik & Cisco.  
->🇬🇧 Network infrastructure design simulation.
-
-**Tech:** MikroTik • Cisco Packet Tracer • TCP/IP
-
-**📱 Android Plant Barcode Scanner**
-🇮🇩 Aplikasi Android untuk scan barcode tanaman dan ambil harga dari Google Sheets.  
->🇬🇧 Android app to scan plant barcode and fetch price data from Google Sheets.
-
-**Tech:** Android Studio • Firebase • Google Sheets API
 
 ---
 
 ## 📚 Currently Learning / Sedang Dipelajari
 
-🇮🇩
-- Machine Learning
-- Cloud Computing
-- Backend API
+- Digital Marketing
 - Cyber Security
-
->🇬🇧
->- Machine Learning  
->- Cloud Computing  
->- Backend API  
->- Cyber Security  
 
 ---
 
