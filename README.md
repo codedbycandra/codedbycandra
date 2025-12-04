@@ -1,8 +1,7 @@
 <!-- ===================== HEADER ANIMATED ===================== --><p align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=6A0DAD&height=250&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=45&fontColor=D8B7FF&animation=fadeIn&desc=&descSize=14" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0A0A23&height=250&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=45&fontColor=FFFFFF&animation=fadeIn&desc=&descSize=14" />
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Data+Analyst,+Web+Developer," />
