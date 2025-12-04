@@ -1,5 +1,6 @@
 <!-- ===================== HEADER ANIMATED ===================== --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4F4F4F&height=200&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=42&fontColor=C0C0C0&animation=fadeIn&desc=Industrial%20Cyber%20Engineering&descSize=14" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=240&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=48&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=//INIT_MATRIX_ACCESS_GRANTED&descAlignY=55&descAlign=50&descSize=14" />
 </p>
 
 <p align="center">
