@@ -95,7 +95,7 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 ---
 
-## 🚀 Sertifikasi dan Proyek
+## 🚀 Sertifikasi dan Project
 
 **📄 Junior Network Administrator - Badan Nasional Sertifikasi Profesi(BNSP)** <br>
 🇮🇩 Sistem penyiraman otomatis tanaman buah dalam pot berbasis IoT yang terhubung dengan web monitoring untuk memantau kelembaban tanah secara real-time.
@@ -113,7 +113,7 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 **📊 Data Analysis Dashboard**
 🇮🇩 Dashboard visualisasi data penjualan & stok.  
 
-**Tech:** Python • Excel • MySQL • Chart.js
+**Tech:** Python • Excel • MySQL
 
 **📡 Network Simulation Project**
 🇮🇩 Simulasi desain jaringan menggunakan MikroTik & Cisco.  
