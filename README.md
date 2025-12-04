@@ -150,7 +150,7 @@ Sistem informasi perpustakaan berbasis web (PHP + MySQL) untuk sekolah — menge
 
 ---
 
-## 📫 Contact Me / Hubungi Saya
+## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:effendycndr@gmail.com">
