@@ -1,7 +1,16 @@
 <!-- ===================== HEADER ANIMATED ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=45&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=//%20Cyber%20Ops%20%7C%20Network%20Admin%20%7C%20Developer&descAlignY=55&descAlign=50&descSize=16" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Initializing+Profile...;Access+Granted+%E2%9C%93;Loading+Tech+Stack...;Welcome+to+Effendy's+Cyber+Space." />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/7t7E0WZ.gif" width="600"/>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Data+Analyst,+Web+Developer," />
