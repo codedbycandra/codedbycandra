@@ -95,23 +95,23 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 ---
 
-## 🚀 Proyek (Projects)
+## 🚀 Sertifikasi dan Proyek
+
+**📄 Junior Network Administrator - Badan Nasional Sertifikasi Profesi(BNSP)** <br>
+🇮🇩 Sistem penyiraman otomatis tanaman buah dalam pot berbasis IoT yang terhubung dengan web monitoring untuk memantau kelembaban tanah secara real-time.
 
 **🌱 Perancangan Sistem Pengairan Otomatis Pada Media Tanam Berbasis Internet of Things** <br>
 🇮🇩 Sistem penyiraman otomatis tanaman buah dalam pot berbasis IoT yang terhubung dengan web monitoring untuk memantau kelembaban tanah secara real-time.
->🇬🇧 Smart IoT-based irrigation system connected to a web-based monitoring platform to track real-time soil moisture levels.
 
 **Tech:** Wemos D1 (ESP8266), Soil Moisture Sensor, Relay Double Module, Water Pump, Arduino IDE, C / C++, PHP, MySQL, HTML, CSS, JavaScript, XAMPP, Web Hosting
 
 **📦 Pengembangan Sistem Informasi Perpustakaan Sekolah Berbasis Web pada Yayasan Pendidikan Islam Pakualam** <br>
 🇮🇩 Sistem informasi perpustakaan berbasis web (PHP + MySQL) untuk sekolah — mengelola data buku, peminjaman & pengembalian secara digital, menggantikan sistem manual.
->🇬🇧 🇬🇧 **Web-based Library Information System** (PHP & MySQL) for schools — manages book data, borrowing, and returns digitally to replace the manual system.
 
 **Tech:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, XAMPP/Laragon, phpMyAdmin, Visual Studio Code
 
 **📊 Data Analysis Dashboard**
 🇮🇩 Dashboard visualisasi data penjualan & stok.  
->🇬🇧 Sales and stock visualization dashboard.
 
 **Tech:** Python • Excel • MySQL • Chart.js
 
