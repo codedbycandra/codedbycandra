@@ -1,8 +1,6 @@
 <!-- ===================== HEADER ANIMATED ===================== -->
-<p align="center">
-  <!-- Ganti URL di bawah dengan link RAW image kamu -->
-  <img src="URL-GAMBAR-KAMU-DISINI" width="100%" />
-</p>
+
+**Effendy Candra Sasmoro**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Data+Analyst,+Web+Developer," />
