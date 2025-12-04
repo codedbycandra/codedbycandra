@@ -1,7 +1,17 @@
 <!-- ===================== HEADER ANIMATED ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=003B8B&height=230&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=46&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=//Cyberpunk%20Mode%20Activated&descAlignY=55&descAlign=50&descSize=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7E5F&height=230&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aesthetic%20Sunset%20Theme&descAlignY=55&descAlign=50&descSize=15" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F0F0F&height=200&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=40&fontColor=00FFCC&animation=blink&desc=Loading...%20Press%20Start&descSize=14" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=6A0DAD&height=250&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=45&fontColor=D8B7FF&animation=fadeIn&desc=Exploring%20the%20Cosmos...&descSize=14" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=230&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=45&fontColor=FFA500&animation=twinkling&desc=//Inferno_Mode_Online&descSize=14" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Data+Analyst,+Web+Developer," />
