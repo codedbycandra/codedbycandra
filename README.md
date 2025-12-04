@@ -1,8 +1,5 @@
 <!-- ===================== HEADER ANIMATED ===================== -->
-<div style="width:100%;max-width:1200px;overflow:hidden;border-radius:8px;">
-  <img src="header.svg" alt="Effendy Candra Sasmoro" style="width:100%;height:auto;display:block;">
-</div>
-
+#Effendy Candra Sasmoro
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Data+Analyst,+Web+Developer," />
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Network+Administrator,+Internet+of+Things" />
@@ -159,8 +156,4 @@ Sistem informasi perpustakaan berbasis web (PHP + MySQL) untuk sekolah — menge
   <a href="https://www.linkedin.com/in/effendy-candra-sasmoro/">
     <img src="https://img.shields.io/badge/LinkedIn-Hubungi%20Saya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" />
 </p>
