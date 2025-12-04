@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ANIMATED ===================== --><p align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0A0A23&height=250&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=45&fontColor=FFFFFF&animation=fadeIn&desc=&descSize=14" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=000000,001F3F&height=250&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=45&fontColor=FFFFFF&animation=fadeIn&desc=&descSize=14" />
 </p>
 
 <p align="center">
