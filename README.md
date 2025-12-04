@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ANIMATED ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=230&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=45&fontColor=00FF41&animation=blink&fontAlignY=35&desc=//=Matrix_Access_Granted;descAlignY=55&descAlign=50&descSize=14" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003B8B&height=230&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=46&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=//Cyberpunk%20Mode%20Activated&descAlignY=55&descAlign=50&descSize=15" />
 </p>
 
 <p align="center">
