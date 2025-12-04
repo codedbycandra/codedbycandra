@@ -1,9 +1,5 @@
 <!-- ===================== HEADER ANIMATED ===================== --><p align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=240&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=48&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=//INIT_MATRIX_ACCESS_GRANTED&descAlignY=55&descAlign=50&descSize=14" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=6A0DAD&height=250&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=45&fontColor=D8B7FF&animation=fadeIn&desc=&descSize=14" />
 </p>
 
