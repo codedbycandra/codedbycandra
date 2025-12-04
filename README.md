@@ -142,23 +142,6 @@ Sistem informasi perpustakaan berbasis web (PHP + MySQL) untuk sekolah — menge
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codedbycandra&theme=tokyonight&margin-w=10" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codedbycandra/codedbycandra/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
-
 ## 💬 Dev Quote
 
 <p align="center">
