@@ -153,8 +153,9 @@ Sistem informasi perpustakaan berbasis web (PHP + MySQL) untuk sekolah — menge
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/codedbycandra/codedbycandra/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/codedbycandra/codedbycandra/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
