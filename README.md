@@ -104,8 +104,8 @@ Ruang lingkup kompetensi mencakup:
 - Pengelolaan dan pemeliharaan infrastruktur jaringan  
 - Monitoring performa jaringan serta identifikasi dan penyelesaian gangguan  
 - Penerapan standar keamanan dasar pada sistem jaringan  
-- Dokumentasi topologi dan konfigurasi jaringan
-<br> Sertifikasi ini menjadi bukti kemampuan profesional dalam mengelola jaringan perusahaan sesuai standar industri dan best practice.
+- Dokumentasi topologi dan konfigurasi jaringan <br>
+Sertifikasi ini menjadi bukti kemampuan profesional dalam mengelola jaringan perusahaan sesuai standar industri dan best practice.
 Mencakup kompetensi instalasi, konfigurasi, dan pemeliharaan jaringan komputer serta troubleshooting perangkat jaringan.
 
 **🌱 Perancangan Sistem Pengairan Otomatis Pada Media Tanam Berbasis Internet of Things**<br>
