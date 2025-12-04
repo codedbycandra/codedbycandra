@@ -1,6 +1,7 @@
-<!-- ===================== HEADER ANIMATED ===================== --><p align="center">
+<!-- ===================== HEADER ANIMATED ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,002B5B&height=260&section=header&text=Effendy%20Candra%20Sasmoro&fontSize=48&fontColor=DDE6FF&animation=fadeIn" />
+  <!-- Ganti URL di bawah dengan link RAW image kamu -->
+  <img src="URL-GAMBAR-KAMU-DISINI" width="100%" />
 </p>
 
 <p align="center">
