@@ -95,6 +95,15 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 ---
 
+## 🧩 Keterampilan Non Teknis
+
+✅ Problem Solving / Pemecahan Masalah  
+✅ Time Management / Manajemen Waktu  
+✅ Teamwork / Kerja Tim  
+✅ Adaptable / Mudah Beradaptasi  
+
+---
+
 ## 🚀 Sertifikasi dan Project
 
 **📄 Junior Network Administrator – Badan Nasional Sertifikasi Profesi (BNSP)**  
@@ -118,25 +127,6 @@ Sistem informasi perpustakaan berbasis web (PHP + MySQL) untuk sekolah — menge
 
 - Digital Marketing
 - Cyber Security
-
----
-
-## 🧩 Soft Skills / Keterampilan Non Teknis
-
-✅ Problem Solving / Pemecahan Masalah  
-✅ Time Management / Manajemen Waktu  
-✅ Teamwork / Kerja Tim  
-✅ Fast Learner / Cepat Belajar  
-✅ Adaptable / Mudah Beradaptasi  
-
----
-
-## 🏆 Certifications / Sertifikasi
-
-- 🥇 Junior Network Administrator – DTS (2021)  
-- 🥇 Infrastruktur & Jaringan – BNSP (2021)  
-- 🥇 Pemrograman – LSP Universitas Pamulang (2021)  
-- 🥇 Microsoft Office – Perguruan Tinggi Raharja (2018)
 
 ---
 
