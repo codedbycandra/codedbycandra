@@ -97,10 +97,18 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
 
 ## 🚀 Sertifikasi dan Project
 
-**📄 Junior Network Administrator - Badan Nasional Sertifikasi Profesi(BNSP)** <br>
-🇮🇩 Sistem penyiraman otomatis tanaman buah dalam pot berbasis IoT yang terhubung dengan web monitoring untuk memantau kelembaban tanah secara real-time.
+**📄 Junior Network Administrator – Badan Nasional Sertifikasi Profesi (BNSP)** <br>
+Skema ini dirancang untuk memastikan kompetensi teknis dalam bidang Network & Infrastructure, khususnya pada pengelolaan jaringan komputer di lingkungan perusahaan.
+Ruang lingkup kompetensi mencakup:
+- Instalasi dan konfigurasi perangkat jaringan (router, switch, access point)  
+- Pengelolaan dan pemeliharaan infrastruktur jaringan  
+- Monitoring performa jaringan serta identifikasi dan penyelesaian gangguan  
+- Penerapan standar keamanan dasar pada sistem jaringan  
+- Dokumentasi topologi dan konfigurasi jaringan
+Sertifikasi ini menjadi bukti kemampuan profesional dalam mengelola jaringan perusahaan sesuai standar industri dan best practice.
+Mencakup kompetensi instalasi, konfigurasi, dan pemeliharaan jaringan komputer serta troubleshooting perangkat jaringan.
 
-**🌱 Perancangan Sistem Pengairan Otomatis Pada Media Tanam Berbasis Internet of Things** <br>
+**🌱 Perancangan Sistem Pengairan Otomatis Pada Media Tanam Berbasis Internet of Things**<br>
 🇮🇩 Sistem penyiraman otomatis tanaman buah dalam pot berbasis IoT yang terhubung dengan web monitoring untuk memantau kelembaban tanah secara real-time.
 
 **Tech:** Wemos D1 (ESP8266), Soil Moisture Sensor, Relay Double Module, Water Pump, Arduino IDE, C / C++, PHP, MySQL, HTML, CSS, JavaScript, XAMPP, Web Hosting
