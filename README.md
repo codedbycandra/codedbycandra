@@ -1,9 +1,13 @@
 <!-- ===================== HEADER ANIMATED ===================== -->
-#Effendy Candra Sasmoro
+<h1 align="center">✨ Effendy Candra Sasmoro ✨</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Data+Analyst;Web+Developer;Network+Administrator;Internet+of+Things+Enthusiast" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Data+Analyst,+Web+Developer," />
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Network+Administrator,+Internet+of+Things" />
-
 </p>
 
 <p align="center">
