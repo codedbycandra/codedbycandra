@@ -28,11 +28,8 @@
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-print("Hello, World!")
-<br>
 Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, pengembangan web, jaringan komputer, dan Internet of Things (IoT). Saya senang mempelajari hal-hal baru serta mencari solusi atas berbagai masalah dengan memanfaatkan teknologi.
 
->print("Hello, World!")<br>
 >I’m a tech enthusiast with a strong interest in data analysis, web development, computer networking, and Internet of Things (IoT). I enjoy learning new things and solving real-world problems using technology.
 
 ---
@@ -108,15 +105,15 @@ Sertifikasi ini merupakan pengakuan resmi terhadap kompetensi saya dalam mengelo
 
 **Tech:** Cisco Packet Tracer
 
-**🌱 Perancangan Sistem Pengairan Otomatis Pada Media Tanam Berbasis Internet of Things**<br>
+**🌱 Perancangan Sistem Pengairan Otomatis Pada Media Tanam Berbasis Internet of Things (IoT)**<br>
 Sistem penyiraman otomatis tanaman buah dalam pot berbasis IoT yang terhubung dengan web monitoring untuk memantau kelembaban tanah secara real-time.
 
-**Tech:** Wemos D1 (ESP8266), Soil Moisture Sensor, Relay Double Module, Water Pump, Arduino IDE, C / C++, PHP, MySQL, HTML, CSS, JavaScript, XAMPP, Web Hosting
+**Tech:** Wemos D1 (ESP8266), Soil Moisture Sensor, Relay Double Module, Water Pump, Arduino IDE, C++, PHP, MySQL, HTML, CSS, JavaScript, XAMPP, Web Hosting
 
 **📦 Pengembangan Sistem Informasi Perpustakaan Sekolah Berbasis Web pada Yayasan Pendidikan** <br>
 Sistem informasi perpustakaan berbasis web (PHP + MySQL) untuk sekolah — mengelola data buku, peminjaman & pengembalian secara digital.
 
-**Tech:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, XAMPP/Laragon, phpMyAdmin, Visual Studio Code
+**Tech:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, XAMPP, phpMyAdmin, Visual Studio Code
 
 ---
 
