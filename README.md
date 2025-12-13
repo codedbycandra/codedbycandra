@@ -87,17 +87,6 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
   <img src="https://skillicons.dev/icons?i=androidstudio,vscode,gcp,wordpress&theme"/>
 </p>
 
----
-
-## 🧩 Keterampilan Non Teknis
-
-✅ Problem Solving / Pemecahan Masalah  
-✅ Time Management / Manajemen Waktu  
-✅ Teamwork / Kerja Tim  
-✅ Adaptable / Mudah Beradaptasi  
-
----
-
 ## 🚀 Sertifikasi dan Project
 
 **📄 Junior Network Administrator – Badan Nasional Sertifikasi Profesi (BNSP)**  
