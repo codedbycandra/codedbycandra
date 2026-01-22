@@ -45,17 +45,17 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
   <img src="https://img.icons8.com/color/48/google-sheets.png"/>
 </p>
 
-**👨‍💻 Web Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,nodejs&theme"/>
-</p>
-
 **👨‍💻 Software Engineering**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js&theme"/>
 </p>
 
-**👨‍💻 Cyber Security**
+**👨‍💻 Web Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,nodejs&theme"/>
+</p>
+
+**👨‍💻 Ethical hacking**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kali,bash,powershell,docker&theme"/>
 </p>
