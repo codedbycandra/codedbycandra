@@ -55,11 +55,6 @@ Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, p
   <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,nodejs&theme"/>
 </p>
 
-**👨‍💻 Ethical hacking**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kali,bash,powershell,docker&theme"/>
-</p>
-
 
 **📡 Network Engineering**
 <p align="left">
