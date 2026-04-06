@@ -29,17 +29,9 @@
 
 ## 🔥 Streak Kontribusi
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img src="https://streak-stats.demolab.com?user=codedbycandra&theme=tokyonight&hide_border=true&background=0d1117"/>
 </p>
 
----
-
-## 🧠 Quote Developer
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
 
 ## 🐍 Animasi Contribution
 <p align="center">
@@ -49,9 +41,8 @@
 ---
 
 ## 📂 Project Unggulan
-- 🚀 Aplikasi Scanner Android  
-- 🌐 Website Portfolio  
-- 📊 Project Analisis Data  
+- 🚀 Internet of Things  
+- 🌐 Website  
 
 ---
 
