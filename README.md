@@ -10,15 +10,7 @@
 
 ---
 
-## 👨‍💻 Tentang Saya
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-
-- 🎓 Lulusan **Teknik Informatika**
-- 💻 Fokus di **Web Development & Networking**
-- 🔧 Suka troubleshooting software & hardware  
-- 🚀 Cepat belajar & siap kerja di dunia IT  
-
----
 
 ## 🛠️ Skill & Teknologi
 <p align="center">
