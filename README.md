@@ -32,12 +32,6 @@
 
 ---
 
-## 📂 Project Unggulan
-- 🚀 Internet of Things  
-- 🌐 Website  
-
----
-
 ## 🌐 Kontak Saya
 <p align="center">
   <a href="https://linkedin.com/in/USERNAME_KAMU">
