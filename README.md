@@ -1,6 +1,6 @@
 <!-- 🔥 BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Effendy%20Candra&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" />
 </p>
 
 <!-- ⚡ TYPING EFFECT -->
@@ -9,8 +9,6 @@
 </p>
 
 ---
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 ## 🛠️ Skill & Teknologi
 <p align="center">
