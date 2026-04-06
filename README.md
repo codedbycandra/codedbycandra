@@ -1,11 +1,7 @@
 <!-- 🔥 BANNER -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" />
-</p>
-
-<!-- ⚡ TYPING EFFECT -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Effendy%20Candra&fontSize=60&fontColor=00F7FF" />
 </p>
 
 ---
