@@ -1,144 +1,24 @@
-<!-- ===================== HEADER ANIMATED ===================== -->
-<h1 align="center">✨ Effendy Candra Sasmoro ✨</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Data+Analyst,+Web+Developer," />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Network+Administrator,+Internet+of+Things" />
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dycndr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/effendy-candra-sasmoro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:effendycndr@gmail.com) 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codedbycandra&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codedbycandra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=codedbycandra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codedbycandra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <a href="mailto:effendycndr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/effendy-candra-sasmoro/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/codedbycandra">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=codedbycandra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=codedbycandra&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=codedbycandra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👋 Tentang Saya (About Me)
-
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-Seorang yang memiliki minat besar di dunia teknologi, khususnya analisis data, pengembangan web, jaringan komputer, dan Internet of Things (IoT). Saya senang mempelajari hal-hal baru serta mencari solusi atas berbagai masalah dengan memanfaatkan teknologi.
-
->I’m a tech enthusiast with a strong interest in data analysis, web development, computer networking, and Internet of Things (IoT). I enjoy learning new things and solving real-world problems using technology.
-
----
-
-## 🧠 Kemampuan Teknis (Technical Skills) 
-
-**🧾 Office & Reporting / Administrasi**
-<p align="left">
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
-  <img src="https://img.icons8.com/color/48/google-docs.png"/>
-  <img src="https://img.icons8.com/color/48/google-sheets.png"/>
-</p>
-
-**👨‍💻 Software Engineering**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js&theme=light"/>
-</p>
-
-**👨‍💻 Web Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,nodejs&theme"/>
-</p>
-
-**👨‍💻 Ethical Hacking**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,git&theme"/>
-</p>
-
-**📡 Network Engineering**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mikrotik.png" alt="MikroTik logo" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cisco.png" alt="Cisco logo" width="55"/>
-</p>
-
-**🤖 Internet of Things**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme"/>
-</p>
-
-**🗄 Database**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql&theme"/>
-</p>
-
-**🖥 Operating Systems**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme"/>
-</p>
-
-**🧰 Tools & Others**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,gcp,wordpress&theme"/>
-</p>
-
-## 🚀 Sertifikasi dan Project
-
-**📄 Junior Network Administrator – Badan Nasional Sertifikasi Profesi (BNSP)**  
-Sertifikasi ini merupakan pengakuan resmi terhadap kompetensi saya dalam mengelola jaringan komputer sesuai standar SKKNI Jaringan Komputer (Permenaker No. 321/2016) dan Okupasi Nasional TIK. Sertifikasi ini mencakup kemampuan instalasi serta konfigurasi perangkat jaringan seperti router, switch, dan access point, pengaturan IP addressing dan VLAN, implementasi routing dasar, monitoring performa jaringan, troubleshooting gangguan, hingga dokumentasi konfigurasi dan topologi. Penguasaan terhadap kompetensi tersebut memastikan saya mampu menangani kebutuhan administrasi jaringan perusahaan secara profesional, terstruktur, dan sesuai best practice industri.
-
-**Tech:** Cisco Packet Tracer
-
-**🌱 Perancangan Sistem Pengairan Otomatis Pada Media Tanam Berbasis Internet of Things (IoT)**<br>
-Sistem penyiraman otomatis tanaman buah dalam pot berbasis IoT yang terhubung dengan web monitoring untuk memantau kelembaban tanah secara real-time.
-
-**Tech:** Wemos D1 (ESP8266), Soil Moisture Sensor, Relay Double Module, Water Pump, Arduino IDE, C++, PHP, MySQL, HTML, CSS, JavaScript, XAMPP, Web Hosting
-
-**📦 Pengembangan Sistem Informasi Perpustakaan Sekolah Berbasis Web pada Yayasan Pendidikan** <br>
-Sistem informasi perpustakaan berbasis web (PHP + MySQL) untuk sekolah — mengelola data buku, peminjaman & pengembalian secara digital.
-
-**Tech:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, XAMPP, phpMyAdmin, Visual Studio Code
-
----
-
-## 📚 Currently Learning / Sedang Dipelajari
-
-- Digital Marketing
-- Cyber Security
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbycandra&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbycandra&theme=tokyonight" />
-</p>
-
----
-
-## 💬 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:effendycndr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Kirim%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/effendy-candra-sasmoro/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hubungi%20Saya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
