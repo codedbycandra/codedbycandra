@@ -13,6 +13,13 @@
 
 ---
 
+## 🐍 Animasi Contribution
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
 ## 📊 Statistik GitHub
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codedbycandra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true"/>
@@ -22,12 +29,6 @@
 ## 🔥 Streak Kontribusi
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=codedbycandra&theme=tokyonight&hide_border=true&background=0d1117"/>
-</p>
-
-
-## 🐍 Animasi Contribution
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
