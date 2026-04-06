@@ -5,7 +5,7 @@
 
 <!-- ⚡ TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=3000&pause=100000&color=00F7FF&center=true&vCenter=true&width=800&lines=Effendy+Candra" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Effendy%20Candra&fontSize=60&fontColor=00F7FF" />
 </p>
 
 ---
