@@ -5,7 +5,7 @@
 
 <!-- ⚡ TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Halo,+Saya+Effendy+Candra;Lulusan+Teknik+Informatika;Web+Developer+%7C+Tech+Enthusiast;Siap+Berkontribusi+di+Dunia+Kerja" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=3000&pause=100000&color=00F7FF&center=true&vCenter=true&width=800&lines=Effendy+Candra" />
 </p>
 
 ---
