@@ -8,7 +8,6 @@
 ---
 
 ## 🛠️ Skill & Teknologi
-## 🛠️ Skill & Teknologi
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
