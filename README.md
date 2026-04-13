@@ -6,43 +6,26 @@
 </p>
 
 ---
-## 🛠️ Skill & Teknologi
 
-### 💻 Programming & Web Development
+## 🛠️ SKILL AND TEKNOLOGI
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cpp" />
+  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🗄️ Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-### 🌐 Networking & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <br/>
-  Cisco • Mikrotik
-</p>
-
-### ⚙️ Tools & System
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### 🔌 Internet of Things (IoT)
-<p align="center">
-  Arduino • ESP8266
-</p>
-
-### 🖥️ Operating System
-<p align="center">
-  Windows • Linux
-</p>
-
-### 🧠 Other Skills
-<p align="center">
-  Troubleshooting (Software & Hardware) • Problem Solving • Teamwork • Adaptability • Microsoft Office
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code"/>
 </p>
 ---
 
