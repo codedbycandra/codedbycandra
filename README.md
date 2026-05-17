@@ -30,17 +30,6 @@
 
 ## 📊 Statistik GitHub
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=codedbycandra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Candra's GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbycandra&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=codedbycandra&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
 </p>
