@@ -16,28 +16,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cpp-3776AB?style=for-the-badge&logo=cpp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hardware-444444?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Software-2ECC71?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</p>
-
----
-
-## 🐍 Animasi Contribution
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codedbycandra/codedbycandra/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 📊 Statistik GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codedbycandra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbycandra&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
