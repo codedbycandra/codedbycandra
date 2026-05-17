@@ -7,38 +7,59 @@
 
 ---
 
-## 🛠️ Skill & Teknologi
+## 🛠️ Tech Stack & Alat Kerja
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
+### 🌐 Web & Software Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cpp-3776AB?style=for-the-badge&logo=cpp&logoColor=white"/>
+</p>
+
+### 🧰 Database, IoT & OS
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-## 🔥 Streak Kontribusi
+## 📊 Statistik GitHub
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=codedbycandra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Candra's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbycandra&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codedbycandra&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=codedbycandra&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
 </p>
 
 ---
 
-## 🌐 Kontak Saya
+## 🌐 Hubungi Saya
+
 <p align="center">
-  <a href="https://linkedin.com/in/effendy-candra-sasmoro">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <a href="https://linkedin.com/in/effendy-candra-sasmoro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:effendycndr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ "Terus belajar, terus berkembang, dan jangan takut mencoba hal baru."
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedbycandra&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
