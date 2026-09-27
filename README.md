@@ -1,13 +1,53 @@
-<!-- 🔥 BANNER -->
-<h1 align="center">Hello World 👋</h1>
-<h3 align="center">I'm Effendy Candra Sasmoro — Tech Enthusiast from Indonesia 🇮🇩</h3>
+<!-- 🔥 ANIMATED TERMINAL HEADER BANNER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" />
+  <img src="https://demolab.com+👋';I'm+Effendy+Candra+Sasmoro;Tech+Enthesast+from+Indonesia+🇮🇩;Building+Innovative+IoT+%26+Web+Solutions_;" alt="Typing SVG" />
+</p>
+
+<!-- STATS BADGES -->
+<p align="center">
+  <img src="https://shields.io" alt="Status"/>
+  <img src="https://shields.io" alt="Followers"/>
+  <img src="https://glitch.me" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="100%" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Alat Kerja
+<!-- INTERACTIVE GRID SECTION -->
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🚀 About Me</h3>
+      <p>I am a highly driven tech builder balancing the worlds of <b>Web Development</b> and <b>Hardware / IoT Engineering</b>.</p>
+      <ul>
+        <li>🤖 Bridging the gap between software logic and physical hardware.</li>
+        <li>⚡ Fun fact: I spend 40% of my time coding and 60% looking for that one missing semicolon or loose jumper wire.</li>
+      </ul>
+      <br>
+      <h3>🌐 Let's Connect</h3>
+      <p>
+        <a href="https://linkedin.com/in/effendy-candra-sasmoro" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="mailto:effendycndr@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
+      </p>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <!-- 🏆 DYNAMIC TROPHIES CARDS -->
+      <h3>🏆 Milestones & Trophies</h3>
+      <img src="https://vercel.app" width="100%" alt="Trophies" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Ecosystem
 
 ### 🌐 Web & Software Development
 <p align="left">
@@ -28,27 +68,23 @@
 
 ---
 
-## 📊 Statistik GitHub
+## 📊 Statistik GitHub & Aktivitas Dinamis
+
+<p align="center">
+  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
+  <img src="https://vercel.app" width="48%" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=codedbycandra&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
 </p>
 
----
-
-## 🌐 Hubungi Saya
-
 <p align="center">
-  <a href="https://linkedin.com/in/effendy-candra-sasmoro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:effendycndr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedbycandra&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedbycandra&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph" />
+  <sub><i>Design crafted with ✨ for <b>codedbycandra</b></i></sub>
 </p>
