@@ -1,79 +1,98 @@
-<!-- HEADER BANNER & TYPING ANIMATION -->
-<p align="center">
-  <img src="https://demolab.com+👋';I'm+Effendy+Candra+Sasmoro;Tech+Enthusiast+from+Indonesia;Status%3A+Turning+coffee+into+clean+code_" alt="Typing SVG" />
-</p>
+<!-- ===================== PROFILE HEADER ===================== -->
 
-<p align="center">
-  <img src="https://shields.io" alt="Status"/>
-  <img src="https://shields.io" alt="Followers"/>
-</p>
+<div align="center">
 
----
-
-<!-- ABOUT ME & GRID SECTION -->
-<table align="center" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 About Me</h3>
-      <p>I am a passionate <b>Full-Stack Developer</b> focused on building high-performance web applications and clean code architectures.</p>
-      <ul>
-        <li>🌐 Exploring the frontiers of Web3 & Cloud Native architecture.</li>
-        <li>💻 Constantly turning coffee into production-ready features.</li>
-        <li>⚡ Fun fact: I prefer <code>Ctrl + Z</code> over real-life compromises.</li>
-      </ul>
-      <br>
-      <h3>📱 Connect With Me</h3>
-      <p>
-        <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"/></a>
-        <a href="mailto:emailmu@domain.com"><img src="https://shields.io" alt="Email"/></a>
-      </p>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <!-- GITHUB TROPHIES -->
-      <img src="https://vercel.app" width="100%" alt="Trophies" />
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- TECH STACK METADATA -->
-<h3 align="center">🛠️ Tech Stack & Ecosystem</h3>
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <!-- COVER -->
+  <img
+    src="https://media.licdn.com/dms/image/v2/D5616AQHr8sR3oKozYQ/profile-displaybackgroundimage-shrink_350_1400/B56Zsq06X0JsAc-/0/1765950073381?e=1792022400&v=beta&t=wjhKTBg5KUzqCvcWCxp_3Z_igcBudYqodbSnhDqkNZ8"
+    width="100%"
+    alt="Effendy Candra Sasmoro — Developer Cover"
+  />
   <br>
-  <!-- Backend -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <!-- NAME -->
+  <h1>EFFENDY CANDRA SASMORO</h1>
+  <h3>
+    Web Developer • IoT Engineer • Network Engineer
+  </h3>
+
+  <p>
+    <i>Building digital solutions, connected systems, and reliable infrastructure.</i>
+  </p>
+
   <br>
-  <!-- DevOps / Tools -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+
+  <!-- SOCIAL LINKS -->
+  <a href="https://www.linkedin.com/in/effendy-candra-sasmoro/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/USERNAME_GITHUB">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <br><br>
+
+  <!-- CORE SKILLS -->
+  <p>
+    💻 <b>Web Development</b>
+    &nbsp; • &nbsp;
+    🤖 <b>Internet of Things</b>
+    &nbsp; • &nbsp;
+    🌐 <b>Computer Networking</b>
+    &nbsp; • &nbsp;
+    ⚙️ <b>Automation</b>
+  </p>
+
+</div>
+
+<!-- ===================== ABOUT ME ===================== -->
+
+## 👋 About Me
+
+I'm **Effendy Candra Sasmoro**, a developer and technology enthusiast focused on building practical solutions across **web development, IoT, and networking**.
+
+I enjoy turning ideas into working systems — from web applications and connected devices to network infrastructure and automated workflows.
 
 ---
 
-<!-- DYNAMIC STATS CARDS -->
-<h3 align="center">📊 GitHub Git-Metrics</h3>
-<p align="center">
-  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
-  <img src="https://vercel.app" width="48%" alt="Top Languages" />
-</p>
+## 🛠️ What I Do
 
-<p align="center">
-  <img src="https://herokuapp.com" width="97%" alt="Streak Stats" />
-</p>
+| Area | Focus |
+|---|---|
+| 💻 **Web Development** | Websites, web applications & backend systems |
+| 🤖 **IoT** | Connected devices, sensors & smart systems |
+| 🌐 **Networking** | Network infrastructure, configuration & troubleshooting |
 
 ---
 
-<!-- FOOTER WITH VISITORS COUNT -->
-<p align="center">
-  <img src="https://glitch.me" alt="Visitor Count" />
-  <br>
-  <sub><i>Design crafted with ✨ by USERNAME_ANDA</i></sub>
-</p>
+## 🚀 Tech Interests
+
+```text
+Web Development    ███████████████████░░
+Internet of Things █████████████████░░░░
+Networking         ████████████████░░░░░
+```
+
+---
+
+## 📌 Current Focus
+
+> **Building useful technology that connects software, hardware, and infrastructure.**
+
+<div align="center">
+
+### Let's Build Something Great 🚀
+
+<a href="https://www.linkedin.com/in/effendy-candra-sasmoro/">
+  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<!-- ===================== END PROFILE ===================== -->
