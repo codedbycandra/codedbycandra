@@ -1,13 +1,13 @@
-<!-- 🔥 ANIMATED TERMINAL HEADER BANNER -->
+<!-- 🔥 CYBERPUNK TERMINAL HEADER BANNER -->
 <p align="center">
-  <img src="https://demolab.com+👋';I'm+Effendy+Candra+Sasmoro;Tech+Enthusiast+from+Indonesia+🇮🇩;Building+Innovative+IoT+%26+Web+Solutions_;" alt="Typing SVG" />
+  <img src="https://demolab.com+🇮🇩;Status%3A+Turning+coffee+into+clean+code_;" alt="Terminal Animation" />
 </p>
 
-<!-- STATS BADGES -->
+<!-- TECH METRICS ON THE TOP -->
 <p align="center">
-  <img src="https://shields.io" alt="Status"/>
-  <img src="https://shields.io" alt="Followers"/>
-  <img src="https://glitch.me" alt="Visitor Count" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 <p align="center">
@@ -16,71 +16,54 @@
 
 ---
 
-### 🚀 About Me
-I am a highly driven tech builder balancing the worlds of **Web Development** and **Hardware / IoT Engineering**.
+### 💻 System Overview
+```text
+[👤] Name      : Effendy Candra Sasmoro
+[🌐] Field     : Full-Stack Web Development & IoT Engineering
+[⚡] Mission   : Bridging software architecture with physical hardware
+```
 
-* 🤖 Bridging the gap between software logic and physical hardware.
-* ⚡ Fun fact: I spend 40% of my time coding and 60% looking for that one missing semicolon or loose jumper wire.
+*   **Core Logic**: Terbiasa merancang backend berbasis data yang terintegrasi dengan otomatisasi sistem.
+*   **Hardware Layer**: Mengembangkan purwarupa sirkuit interaktif menggunakan mikrokontroler pintar.
 
 ---
 
-### 🏆 Milestones & Trophies
+### 🛠️ Core Tech Stack & Ecosystem
+
+```text
+🌐 Front-End  ::  HTML5  |  CSS3  |  JavaScript
+⚙️ Back-End   ::  PHP    |  Python
+🗄️ Database   ::  MySQL
+🤖 Hardware   ::  Arduino  |  Raspberry Pi
+🐧 Core OS    ::  Linux (Tux Architecture)
+```
+
+---
+
+### 📊 Deep Tech Metrics (Dark Neon Edition)
+
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Trophies" />
+  <img src="https://vercel.app" width="49%" alt="Main Stats" />
+  <img src="https://vercel.app" width="49%" alt="Languages Stats" />
+</p>
+
+<p align="center">
+  <img src="https://demolab.com" width="99%" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" width="99%" alt="Activity History" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
-
-### 🌐 Web & Software Development
+### 📡 Establish Connection
 <p align="left">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
+  🤝 Hubungi sistem saya melalui: 
+  <a href="https://linkedin.com" target="_blank"><b>[ LinkedIn ]</b></a> — 
+  <a href="mailto:effendycndr@gmail.com"><b>[ Official Email ]</b></a>
 </p>
 
-### 🧰 Database, IoT & OS
-<p align="left">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
-
----
-
-## 📊 Statistik GitHub & Aktivitas Dinamis
-
-<p align="center">
-  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
-  <img src="https://vercel.app" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Activity Graph" />
-</p>
-
----
-
-## 🌐 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:effendycndr@gmail.com">
-    <img src="https://shields.io" alt="Email"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub><i>Design crafted with ✨ for <b>codedbycandra</b></i></sub>
+<p align="right">
+  <code>⚡ SYSTEM STATUS: ONLINE</code>
 </p>
