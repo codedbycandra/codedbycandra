@@ -1,6 +1,6 @@
 <!-- HEADER BANNER & TYPING ANIMATION -->
 <p align="center">
-  <img src="https://demolab.com_;" alt="Typing SVG" />
+  <img src="https://demolab.com+👋';I'm+Effendy+Candra+Sasmoro;Tech+Enthusiast+from+Indonesia;Status%3A+Turning+coffee+into+clean+code_" alt="Typing SVG" />
 </p>
 
 <p align="center">
