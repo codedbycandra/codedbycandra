@@ -45,8 +45,6 @@
     🤖 <b>Internet of Things</b>
     &nbsp; • &nbsp;
     🌐 <b>Computer Networking</b>
-    &nbsp; • &nbsp;
-    ⚙️ <b>Automation</b>
   </p>
 
 </div>
