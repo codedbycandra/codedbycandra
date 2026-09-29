@@ -30,7 +30,7 @@ I enjoy transforming ideas into real-world applications — from modern web plat
 ## 🛠️ Skills & Tools
 ### 💻 Fullstack Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,react,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,mysql" />
 </p>
 
 ### 🤖 Internet of Things
