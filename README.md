@@ -39,6 +39,7 @@ I enjoy transforming ideas into real-world applications — from modern web plat
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP828266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
 </p>
 
