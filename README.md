@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm **Effendy Candra Sasmoro**, a developer and technology enthusiast focused on building practical solutions across **web development, IoT, and networking**.
+I'm **Effendy Candra Sasmoro**, a developer and technology enthusiast focused on building practical solutions across **Full-stack Developer and Internet of Things**.
 
 I enjoy turning ideas into working systems — from web applications and connected devices to network infrastructure and automated workflows.
 
@@ -32,7 +32,6 @@ I enjoy turning ideas into working systems — from web applications and connect
 |---|---|
 | 💻 **Web Development** | Websites, web applications & backend systems |
 | 🤖 **IoT** | Connected devices, sensors & smart systems |
-| 🌐 **Networking** | Network infrastructure, configuration & troubleshooting |
 
 ---
 
@@ -41,7 +40,6 @@ I enjoy turning ideas into working systems — from web applications and connect
 ```text
 Web Development    ███████████████████░░
 Internet of Things █████████████████░░░░
-Networking         ████████████████░░░░░
 ```
 
 ---
