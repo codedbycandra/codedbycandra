@@ -1,5 +1,4 @@
 <!-- ===================== PROFILE HEADER ===================== -->
-
 <div align="center">
 
   <!-- COVER -->
@@ -8,45 +7,13 @@
     width="100%"
     alt="Effendy Candra Sasmoro — Developer Cover"
   />
-  <br>
-  <!-- NAME -->
   <h1>EFFENDY CANDRA SASMORO</h1>
   <h3>
     Web Developer • IoT Engineer • Network Engineer
   </h3>
-
   <p>
     <i>Building digital solutions, connected systems, and reliable infrastructure.</i>
   </p>
-
-  <br>
-
-  <!-- SOCIAL LINKS -->
-  <a href="https://www.linkedin.com/in/effendy-candra-sasmoro/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  &nbsp;
-  <a href="https://github.com/codedbycandra">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-  <br><br>
-
-  <!-- CORE SKILLS -->
-  <p>
-    💻 <b>Web Development</b>
-    &nbsp; • &nbsp;
-    🤖 <b>Internet of Things</b>
-    &nbsp; • &nbsp;
-    🌐 <b>Computer Networking</b>
-  </p>
-
 </div>
 
 <!-- ===================== ABOUT ME ===================== -->
