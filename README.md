@@ -7,55 +7,48 @@
     width="100%"
     alt="Effendy Candra Sasmoro — Developer Cover"
   />
+
   <h1>EFFENDY CANDRA SASMORO</h1>
-  <h3>
-    Web Developer • IoT Engineer • Network Engineer
-  </h3>
+
+  <h3>Web Developer • IoT Engineer</h3>
+
   <p>
-    <i>Building digital solutions, connected systems, and reliable infrastructure.</i>
+    <i>Building digital solutions and connected systems.</i>
   </p>
+
 </div>
 
 <!-- ===================== ABOUT ME ===================== -->
 
 ## 👋 About Me
 
-I'm **Effendy Candra Sasmoro**, a developer and technology enthusiast focused on building practical solutions across **Full-stack Developer and Internet of Things**.
+I'm **Effendy Candra Sasmoro**, a developer and technology enthusiast focused on building practical solutions across **Fullstack Developer and the Internet of Things (IoT)**.
 
-I enjoy turning ideas into working systems — from web applications and connected devices to network infrastructure and automated workflows.
+I enjoy transforming ideas into real-world applications — from modern web platforms and backend services to connected devices, sensors, and automation.
+
+---
+## 🛠️ Skills & Tools
+### 💻 Fullstack Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,react,mysql,postgresql" />
+</p>
+
+### 🤖 Internet of Things
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,c,cpp" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+</p>
+
+### ⚙️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
 
 ---
 
-## 🛠️ What I Do
-
-| Area | Focus |
-|---|---|
-| 💻 **Web Development** | Websites, web applications & backend systems |
-| 🤖 **IoT** | Connected devices, sensors & smart systems |
-
 ---
-
-## 🚀 Tech Interests
-
-```text
-Web Development    ███████████████████░░
-Internet of Things █████████████████░░░░
-```
-
----
-
-## 📌 Current Focus
-
-> **Building useful technology that connects software, hardware, and infrastructure.**
-
-<div align="center">
-
-### Let's Build Something Great 🚀
-
-<a href="https://www.linkedin.com/in/effendy-candra-sasmoro/">
-  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
 
 <!-- ===================== END PROFILE ===================== -->
