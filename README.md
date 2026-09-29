@@ -29,7 +29,7 @@
     />
   </a>
   &nbsp;
-  <a href="https://github.com/USERNAME_GITHUB">
+  <a href="https://github.com/codedbycandra">
     <img
       src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
