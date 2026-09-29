@@ -10,7 +10,7 @@
 
   <h1>EFFENDY CANDRA SASMORO</h1>
 
-  <h3>Web Developer • IoT Engineer</h3>
+  <h3>Fullstack Development • Internet of Things (IoT)</h3>
 
   <p>
     <i>Building digital solutions and connected systems.</i>
@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-I'm **Effendy Candra Sasmoro**, a developer and technology enthusiast focused on building practical solutions across **Fullstack Developer and the Internet of Things (IoT)**.
+I'm **Effendy Candra Sasmoro**, a developer and technology enthusiast focused on building practical solutions across **Fullstack Developer and Internet of Things (IoT)**.
 
 I enjoy transforming ideas into real-world applications — from modern web platforms and backend services to connected devices, sensors, and automation.
 
@@ -35,7 +35,7 @@ I enjoy transforming ideas into real-world applications — from modern web plat
 
 ### 🤖 Internet of Things
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,c,cpp,java" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
@@ -45,7 +45,7 @@ I enjoy transforming ideas into real-world applications — from modern web plat
 
 ### ⚙️ Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,vscode,androidstudio,kali" />
 </p>
 
 ---
